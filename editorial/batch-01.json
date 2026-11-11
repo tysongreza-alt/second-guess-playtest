@@ -1,0 +1,71 @@
+{
+  "deckVersion": "2026.11.10.3",
+  "batch": 1,
+  "decisions": [
+    {
+      "originalIndex": 1,
+      "title": "Last Slice",
+      "rating": "Rework",
+      "comment": ""
+    },
+    {
+      "originalIndex": 2,
+      "title": "Movie Night",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 3,
+      "title": "Snack Supply",
+      "rating": "Rework",
+      "comment": "Twist doesn’t feel impactful since it’s unlimited"
+    },
+    {
+      "originalIndex": 4,
+      "title": "Perfect Seat",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 5,
+      "title": "Food Forever",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 6,
+      "title": "Theme Park",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 7,
+      "title": "Friends Over",
+      "rating": "Rework",
+      "comment": "Twist seems to impact everything too differently"
+    },
+    {
+      "originalIndex": 8,
+      "title": "Perfect Breakfast",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 9,
+      "title": "TV Control",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 10,
+      "title": "Birthday Dessert",
+      "rating": "Keep",
+      "comment": ""
+    }
+  ],
+  "revisions": [
+    "Last Slice",
+    "Snack Supply",
+    "Friends Over"
+  ]
+}
