@@ -1215,252 +1215,602 @@
     {
       "id": "C001",
       "title": "Wrong Recipient",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your goofy text went to someone you want to impress.",
+      "choices": [
+        "Explain immediately",
+        "Pretend it was intentional",
+        "Say nothing"
+      ],
+      "twist": "They reply with just a question mark."
     },
     {
       "id": "C002",
       "title": "Birthday Song",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A restaurant sings Happy Birthday to you.",
+      "choices": [
+        "Sing along",
+        "Hide behind the menu",
+        "Stand and bow"
+      ],
+      "twist": "Staff brings a silly hat you must wear."
     },
     {
       "id": "C003",
       "title": "Borrowed Jacket",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You spilled juice on a friend's borrowed jacket.",
+      "choices": [
+        "Confess now",
+        "Clean it secretly",
+        "Quietly replace it"
+      ],
+      "twist": "They mention it was a gift from their grandmother."
     },
     {
       "id": "C004",
       "title": "Surprise Cousins",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Cousins arrive unannounced for the weekend.",
+      "choices": [
+        "Plan activities",
+        "Go with the flow",
+        "Retreat to your room"
+      ],
+      "twist": "They're staying the whole week."
     },
     {
       "id": "C005",
       "title": "Finale Spoiler",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your friend is about to watch a finale you've seen.",
+      "choices": [
+        "Stay quiet",
+        "Drop vague hints",
+        "Reveal everything"
+      ],
+      "twist": "They've avoided spoilers for two years."
     },
     {
       "id": "C006",
       "title": "Forgotten Wallet",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A friend forgot their wallet at lunch.",
+      "choices": [
+        "Cover them",
+        "Split with the group",
+        "Let them figure it out"
+      ],
+      "twist": "It's the third time this month."
     },
     {
       "id": "C007",
       "title": "Grandparent's Gift",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Grandma gives you a gift you'll never use.",
+      "choices": [
+        "Gush about it",
+        "Thank her honestly",
+        "Ask where she found it"
+      ],
+      "twist": "She asks to see you use it tomorrow."
     },
     {
       "id": "C008",
       "title": "Wrong Name",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A new friend has called you the wrong name for months.",
+      "choices": [
+        "Correct them now",
+        "Ignore it forever",
+        "Start answering to it"
+      ],
+      "twist": "They introduce you to their family using that name."
     },
     {
       "id": "C009",
       "title": "Secret Party",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're hiding a surprise party from someone curious.",
+      "choices": [
+        "Lie smoothly",
+        "Change the subject",
+        "Can't tell you!"
+      ],
+      "twist": "They always know when you're lying."
     },
     {
       "id": "C010",
       "title": "Proud Chef",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A friend proudly serves you a dish that tastes awful.",
+      "choices": [
+        "Eat it all",
+        "Eat some, praise it",
+        "Politely decline"
+      ],
+      "twist": "They're entering it in a contest tomorrow."
     },
     {
       "id": "C011",
       "title": "Elevator Silence",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're alone in an elevator with a stranger.",
+      "choices": [
+        "Small talk",
+        "Stare at your phone",
+        "Study the floor numbers"
+      ],
+      "twist": "The elevator stops between floors for five minutes."
     },
     {
       "id": "C012",
       "title": "Growling Stomach",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your stomach growls loudly in a silent room.",
+      "choices": [
+        "Laugh and own it",
+        "Blame the chair",
+        "Pretend nothing happened"
+      ],
+      "twist": "It happens again ten seconds later."
     },
     {
       "id": "C013",
       "title": "Spinach Smile",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your friend has food in their teeth.",
+      "choices": [
+        "Tell them right now",
+        "Signal discreetly",
+        "Say nothing"
+      ],
+      "twist": "They're mid-story and very proud of it."
     },
     {
       "id": "C014",
       "title": "Fake Laugh",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Someone tells a joke you don't understand.",
+      "choices": [
+        "Laugh anyway",
+        "Ask them to explain",
+        "Smile politely"
+      ],
+      "twist": "They ask what your favorite part was."
     },
     {
       "id": "C015",
       "title": "Wrong Wave",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You waved at someone who was waving at the person behind you.",
+      "choices": [
+        "Pretend you're stretching",
+        "Laugh it off",
+        "Walk away fast"
+      ],
+      "twist": "They walk over to say hi anyway."
     },
     {
       "id": "C016",
       "title": "Costume Mix-Up",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You arrive in full costume. Nobody else did.",
+      "choices": [
+        "Stay committed",
+        "Leave and change",
+        "Quietly remove pieces"
+      ],
+      "twist": "A photographer is taking the official party photo."
     },
     {
       "id": "C017",
       "title": "Karaoke Ambush",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Friends signed you up for karaoke.",
+      "choices": [
+        "Sing with full confidence",
+        "Sing badly on purpose",
+        "Drag a friend up"
+      ],
+      "twist": "It's a song you've never heard."
     },
     {
       "id": "C018",
       "title": "Mystery Leftover",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You find an unlabeled container in the fridge.",
+      "choices": [
+        "Taste it",
+        "Toss it",
+        "Ask around"
+      ],
+      "twist": "Someone says it's a secret family recipe."
     },
     {
       "id": "C019",
       "title": "Squeaky Shoes",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your new shoes squeak with every step in a quiet place.",
+      "choices": [
+        "Embrace it",
+        "Tiptoe",
+        "Take them off"
+      ],
+      "twist": "You must cross the entire hall."
     },
     {
       "id": "C020",
       "title": "Nickname Spotlight",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're asked to share one fun fact about yourself.",
+      "choices": [
+        "A real embarrassing one",
+        "A made-up silly one",
+        "Pass"
+      ],
+      "twist": "Whatever you say becomes your nickname this year."
     },
     {
       "id": "C021",
       "title": "Robot Sidekick",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A tiny robot sidekick follows you for a week.",
+      "choices": [
+        "One that does chores",
+        "One that tells jokes",
+        "One that knows every fact"
+      ],
+      "twist": "It announces everything it thinks, out loud."
     },
     {
       "id": "C022",
       "title": "Shrink Day",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You can shrink to six inches for an hour.",
+      "choices": [
+        "Explore your house",
+        "Ride a pet",
+        "Sneak into a secret spot"
+      ],
+      "twist": "Your cat is awake and curious."
     },
     {
       "id": "C023",
       "title": "Secret Room",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You inherit a mansion with one empty secret room.",
+      "choices": [
+        "Movie theater",
+        "Indoor waterpark",
+        "Giant library maze"
+      ],
+      "twist": "Neighbors find out and visit daily."
     },
     {
       "id": "C024",
       "title": "Invented Holiday",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You invent a national holiday.",
+      "choices": [
+        "Free snack day",
+        "No homework or work day",
+        "Opposite day"
+      ],
+      "twist": "You must plan the celebration yourself."
     },
     {
       "id": "C025",
       "title": "Pocket Dragon",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A tiny dragon hatches in your room.",
+      "choices": [
+        "Teach it tricks",
+        "Keep it secret",
+        "Show everyone"
+      ],
+      "twist": "It sneezes sparks when excited."
     },
     {
       "id": "C026",
       "title": "Animal Shadow",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "One animal follows you around for a day.",
+      "choices": [
+        "A friendly penguin",
+        "A mischievous monkey",
+        "A giant tortoise"
+      ],
+      "twist": "It copies everything you do."
     },
     {
       "id": "C027",
       "title": "Swap Day",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You swap lives with someone for one day.",
+      "choices": [
+        "A parent",
+        "A pro athlete",
+        "Your best friend"
+      ],
+      "twist": "They answer all your messages and calls."
     },
     {
       "id": "C028",
       "title": "Street Makeover",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Overnight, you redesign your street.",
+      "choices": [
+        "Giant slide",
+        "Giant mural",
+        "Mini golf course"
+      ],
+      "twist": "Your neighbors vote in the morning on whether it stays."
     },
     {
       "id": "C029",
       "title": "Time Capsule",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You bury one item to be opened in 20 years.",
+      "choices": [
+        "A letter to your future self",
+        "Your favorite gadget",
+        "A photo of your friends"
+      ],
+      "twist": "Everyone you know will see it at opening."
     },
     {
       "id": "C030",
       "title": "Cloud Slide",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A magic slide takes you from your window anywhere in town.",
+      "choices": [
+        "Your school or work",
+        "A friend's house",
+        "The ice cream shop"
+      ],
+      "twist": "The trip home is a three-mile walk."
     },
     {
       "id": "C031",
       "title": "Relay Spot",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're picking your leg in a team relay.",
+      "choices": [
+        "First",
+        "Middle",
+        "Anchor"
+      ],
+      "twist": "Your team starts far behind."
     },
     {
       "id": "C032",
       "title": "Escape Room",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're in an escape room. Pick your job.",
+      "choices": [
+        "Solve puzzles",
+        "Search for clues",
+        "Keep the team calm"
+      ],
+      "twist": "Five minutes left, and the team starts arguing."
     },
     {
       "id": "C033",
       "title": "Clue Giver",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're giving hints in a word-guessing game.",
+      "choices": [
+        "Obvious hints",
+        "Clever hints",
+        "Silly hints"
+      ],
+      "twist": "Your partner takes everything literally."
     },
     {
       "id": "C034",
       "title": "Coin Toss",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You win the toss in a game against a rival.",
+      "choices": [
+        "Go first",
+        "Go last",
+        "Choose the game"
+      ],
+      "twist": "Your opponent is the reigning champion."
     },
     {
       "id": "C035",
       "title": "Tied Trophy",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You tie for first. There's one trophy.",
+      "choices": [
+        "Share it monthly",
+        "Rematch now",
+        "Flip a coin"
+      ],
+      "twist": "Your friend has never won anything."
     },
     {
       "id": "C036",
       "title": "Lucky Call",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "The referee missed a call that favored your team.",
+      "choices": [
+        "Say nothing",
+        "Report it",
+        "Just play harder"
+      ],
+      "twist": "Your teammates saw it too and are cheering."
     },
     {
       "id": "C037",
       "title": "Scavenger Gamble",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your team has three clues. Which first?",
+      "choices": [
+        "The closest one",
+        "The hardest, biggest prize",
+        "Split up and try all"
+      ],
+      "twist": "A rival team is following you."
     },
     {
       "id": "C038",
       "title": "Secret Alliance",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "In a board game, a friend offers an alliance.",
+      "choices": [
+        "Accept",
+        "Decline",
+        "Pretend to accept"
+      ],
+      "twist": "Your ally is secretly in the lead."
     },
     {
       "id": "C039",
       "title": "Blindfold Guide",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Your teammate is blindfolded and you guide them through a course.",
+      "choices": [
+        "Detailed directions",
+        "Short commands",
+        "Hold their hand"
+      ],
+      "twist": "The other team shouts fake directions."
     },
     {
       "id": "C040",
       "title": "Lemonade War",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "A rival opens a lemonade stand across the street.",
+      "choices": [
+        "Cut prices",
+        "Add a gimmick",
+        "Team up"
+      ],
+      "twist": "They're giving away free cookies."
     },
     {
       "id": "C041",
       "title": "Box or Cash",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You're offered a prize. Choose.",
+      "choices": [
+        "$50 now",
+        "A sealed mystery box",
+        "A bigger prize tomorrow"
+      ],
+      "twist": "Your funniest friend packed the box."
     },
     {
       "id": "C042",
       "title": "Spend It Fast",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You win $500 and must spend it within 24 hours.",
+      "choices": [
+        "On yourself",
+        "On friends and family",
+        "One big purchase"
+      ],
+      "twist": "Everyone you know will see what you bought."
     },
     {
       "id": "C043",
       "title": "The 25th Hour",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You get an extra hour every day, forever.",
+      "choices": [
+        "Sleep",
+        "Hobbies",
+        "Friends"
+      ],
+      "twist": "Everyone else is asleep during it."
     },
     {
       "id": "C044",
       "title": "Named After You",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "Something new is named after you.",
+      "choices": [
+        "An ice cream flavor",
+        "A roller coaster",
+        "A mountain trail"
+      ],
+      "twist": "It's named after your most embarrassing moment."
     },
     {
       "id": "C045",
       "title": "Your Rule",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "For one day, everyone follows your rule.",
+      "choices": [
+        "Speak in rhyme",
+        "Dessert first",
+        "Compliments only"
+      ],
+      "twist": "The rule lasts a full week."
     },
     {
       "id": "C046",
       "title": "Hall of Fame",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "One photo of you goes on a wall.",
+      "choices": [
+        "Your proudest moment",
+        "A funny candid",
+        "A group photo"
+      ],
+      "twist": "It stays up for ten years."
     },
     {
       "id": "C047",
       "title": "Garage Sale Find",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You can buy one mystery item for $5.",
+      "choices": [
+        "Locked toolbox",
+        "Dusty suitcase",
+        "Wrapped box"
+      ],
+      "twist": "The seller smiles and says, Good luck."
     },
     {
       "id": "C048",
       "title": "Ice Cream Truck",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "The truck is leaving soon and you have $5.",
+      "choices": [
+        "One giant treat",
+        "Several small ones",
+        "Treats for friends"
+      ],
+      "twist": "A long line forms behind you."
     },
     {
       "id": "C049",
       "title": "Double Gift",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You received the same gift twice.",
+      "choices": [
+        "Keep both",
+        "Re-gift one",
+        "Return one"
+      ],
+      "twist": "Both givers will ask about it next week."
     },
     {
       "id": "C050",
       "title": "Raffle Win",
-      "status": "source_text_in_chat_pending_structured_import"
+      "status": "pending_cross_review",
+      "scenario": "You win a raffle prize you don't want.",
+      "choices": [
+        "Keep it",
+        "Trade quietly",
+        "Give it away"
+      ],
+      "twist": "The person who donated it is right behind you."
     }
   ],
   "chatgpt_new": [
