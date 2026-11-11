@@ -1,0 +1,73 @@
+{
+  "deckVersion": "2026.11.10.4",
+  "batch": 2,
+  "decisions": [
+    {
+      "originalIndex": 11,
+      "title": "Long Drive",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 12,
+      "title": "Arcade Pass",
+      "rating": "Rework",
+      "comment": ""
+    },
+    {
+      "originalIndex": 13,
+      "title": "Party Playlist",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 14,
+      "title": "Mystery Package",
+      "rating": "Rework",
+      "comment": "Poor twist"
+    },
+    {
+      "originalIndex": 15,
+      "title": "Big Screen",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 16,
+      "title": "Lunch Trade",
+      "rating": "Rework",
+      "comment": ""
+    },
+    {
+      "originalIndex": 17,
+      "title": "Water Park",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 18,
+      "title": "Weekend Choice",
+      "rating": "Keep",
+      "comment": ""
+    },
+    {
+      "originalIndex": 19,
+      "title": "Prize Wheel",
+      "rating": "Rework",
+      "comment": ""
+    },
+    {
+      "originalIndex": 20,
+      "title": "Dinner Vote",
+      "rating": "Rework",
+      "comment": "Twist needs work"
+    }
+  ],
+  "revisions": [
+    "Arcade Pass",
+    "Mystery Package",
+    "Lunch Trade",
+    "Prize Wheel",
+    "Dinner Vote"
+  ]
+}
