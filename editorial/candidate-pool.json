@@ -3120,301 +3120,651 @@
       "id": "C051",
       "title": "Sibling Snoop",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your sibling's diary is open on the table.",
+      "choices": [
+        "Walk away",
+        "Read one line",
+        "Tell them"
+      ],
+      "twist": "Your name is on the open page."
     },
     {
       "id": "C052",
       "title": "Grandparent Sign",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your grandparent holds a giant sign at your event.",
+      "choices": [
+        "Wave proudly",
+        "Hide",
+        "Pretend not to know them"
+      ],
+      "twist": "A camera crew is filming the crowd."
     },
     {
       "id": "C053",
       "title": "Holiday Card",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Relatives demand a goofy family photo.",
+      "choices": [
+        "All-out silly",
+        "Normal smile",
+        "Hide in back"
+      ],
+      "twist": "It becomes this year's holiday card."
     },
     {
       "id": "C054",
       "title": "Snore Watch",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friend snores loudly at a sleepover.",
+      "choices": [
+        "Throw a pillow",
+        "Record it",
+        "Move rooms"
+      ],
+      "twist": "Earlier, they said they're embarrassed about snoring."
     },
     {
       "id": "C055",
       "title": "Open Phone",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friend hands you their unlocked phone to pick music.",
+      "choices": [
+        "Just pick a song",
+        "Peek",
+        "Hand it back"
+      ],
+      "twist": "A notification pops up with your name in it."
     },
     {
       "id": "C056",
       "title": "Wrapping Fail",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your gift is wrapped terribly and the party is starting.",
+      "choices": [
+        "Give it anyway",
+        "Hide it in a bag",
+        "Joke about it"
+      ],
+      "twist": "The recipient is famous for perfect wrapping."
     },
     {
       "id": "C057",
       "title": "Mom Slip",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You accidentally call your teacher or boss Mom.",
+      "choices": [
+        "Laugh loudly",
+        "Pretend it didn't happen",
+        "Do it again"
+      ],
+      "twist": "Everyone heard and went silent."
     },
     {
       "id": "C058",
       "title": "Kids' Table",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Family dinner has a kids' table and an adults' table.",
+      "choices": [
+        "Kids' table",
+        "Adults' table",
+        "Float between"
+      ],
+      "twist": "The kids' table is getting all the games."
     },
     {
       "id": "C059",
       "title": "Secret Signal",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your friend group needs a secret signal.",
+      "choices": [
+        "Handshake",
+        "Code word",
+        "Silly dance"
+      ],
+      "twist": "You'll use it in front of everyone tomorrow."
     },
     {
       "id": "C060",
       "title": "Card Cheat",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Grandpa clearly cheats at cards.",
+      "choices": [
+        "Call him out",
+        "Cheat back",
+        "Let him win"
+      ],
+      "twist": "The family trophy is on the line."
     },
     {
       "id": "C061",
       "title": "Twin Outfits",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You and a friend show up in the same outfit.",
+      "choices": [
+        "Lean in",
+        "Go change",
+        "Act like it's a coincidence"
+      ],
+      "twist": "A photographer asks you both to pose."
     },
     {
       "id": "C062",
       "title": "Borrowed Stuff",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your sibling borrowed your favorite thing without asking.",
+      "choices": [
+        "Confront them",
+        "Borrow theirs",
+        "Say nothing"
+      ],
+      "twist": "They just apologized without being asked."
     },
     {
       "id": "C063",
       "title": "Introductions",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You must introduce a friend to a group.",
+      "choices": [
+        "Embarrassing story",
+        "Brag about them",
+        "Just their name"
+      ],
+      "twist": "They introduce you next."
     },
     {
       "id": "C064",
       "title": "Whispered Plans",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your friends go quiet when you walk in.",
+      "choices": [
+        "Ask",
+        "Pretend not to notice",
+        "Guess aloud"
+      ],
+      "twist": "Your birthday is in three days."
     },
     {
       "id": "C065",
       "title": "Big News",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're the first to hear a friend's big news.",
+      "choices": [
+        "Keep quiet",
+        "Drop hints",
+        "Celebrate loudly"
+      ],
+      "twist": "Another friend asks you directly what's going on."
     },
     {
       "id": "C066",
       "title": "Hiccup Speech",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Hiccups hit mid-presentation.",
+      "choices": [
+        "Push through",
+        "Stop and laugh",
+        "Sip water"
+      ],
+      "twist": "Everyone starts counting them aloud."
     },
     {
       "id": "C067",
       "title": "Backward Shirt",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You notice your shirt's been on backward for an hour.",
+      "choices": [
+        "Fix it openly",
+        "Sneak away to fix it",
+        "Own the look"
+      ],
+      "twist": "A group photo is in two minutes."
     },
     {
       "id": "C068",
       "title": "Mic Ambush",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're unexpectedly handed a mic at a party.",
+      "choices": [
+        "Tell a joke",
+        "Speak sincerely",
+        "Pass the mic"
+      ],
+      "twist": "Someone is recording it for the guest of honor."
     },
     {
       "id": "C069",
       "title": "Store Dance",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your favorite song plays in a quiet store.",
+      "choices": [
+        "Dance",
+        "Hum quietly",
+        "Stay still"
+      ],
+      "twist": "A friend dares you."
     },
     {
       "id": "C070",
       "title": "Mistaken Hug",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A stranger hugs you, mistaking you for someone else.",
+      "choices": [
+        "Hug back",
+        "Correct them",
+        "Play along"
+      ],
+      "twist": "They say they've missed you for years."
     },
     {
       "id": "C071",
       "title": "Mascot Dance-Off",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "The team mascot picks you from the crowd.",
+      "choices": [
+        "Go all in",
+        "Awkward shuffle",
+        "Decline"
+      ],
+      "twist": "Your section starts chanting your name."
     },
     {
       "id": "C072",
       "title": "Hug Note",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You find a note on your back that says Hug me.",
+      "choices": [
+        "Hug someone",
+        "Remove it silently",
+        "Keep it on"
+      ],
+      "twist": "The first person to notice is a stranger."
     },
     {
       "id": "C073",
       "title": "Wrong Room",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You walk into the wrong classroom or meeting.",
+      "choices": [
+        "Bow and leave",
+        "Pretend you belong",
+        "Ask for the right room"
+      ],
+      "twist": "They offer you a seat."
     },
     {
       "id": "C074",
       "title": "Lone Clapper",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're the only one clapping at a quiet performance.",
+      "choices": [
+        "Keep clapping",
+        "Stop and look around",
+        "Start a standing ovation"
+      ],
+      "twist": "The performer is your friend."
     },
     {
       "id": "C075",
       "title": "Seagull Thief",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A seagull steals your snack as people watch.",
+      "choices": [
+        "Chase it",
+        "Laugh",
+        "Pretend it's fine"
+      ],
+      "twist": "The crowd starts cheering for the seagull."
     },
     {
       "id": "C076",
       "title": "Window Wave",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You waved at your own reflection and people inside noticed.",
+      "choices": [
+        "Keep waving",
+        "Take a bow",
+        "Hurry off"
+      ],
+      "twist": "They give you a thumbs-up."
     },
     {
       "id": "C077",
       "title": "Glitter Gift",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You open a gift and glitter explodes everywhere.",
+      "choices": [
+        "Wear it proudly",
+        "Clean up fast",
+        "Blame the giver"
+      ],
+      "twist": "You have an important meeting in an hour."
     },
     {
       "id": "C078",
       "title": "Autocorrect Reply",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Autocorrect turned your message to your teacher or boss into nonsense.",
+      "choices": [
+        "Send a correction",
+        "Ignore it",
+        "Joke about it"
+      ],
+      "twist": "They replied with a laughing emoji."
     },
     {
       "id": "C079",
       "title": "Chat Rename",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Someone renamed your group chat to something embarrassing.",
+      "choices": [
+        "Rename it back",
+        "Make it worse",
+        "Leave it"
+      ],
+      "twist": "Your family is in the chat too."
     },
     {
       "id": "C080",
       "title": "Loud Whisper",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your whispered secret was much louder than you thought.",
+      "choices": [
+        "Own it",
+        "Change the subject",
+        "Whisper again"
+      ],
+      "twist": "The person it's about is standing right there."
     },
     {
       "id": "C081",
       "title": "Mismatched Shoes",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You notice you're wearing two different shoes.",
+      "choices": [
+        "Show them off",
+        "Hide your feet",
+        "Explain loudly"
+      ],
+      "twist": "You're called to the front of the room."
     },
     {
       "id": "C082",
       "title": "Blurry Photo",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You took a family's vacation photo and it's blurry.",
+      "choices": [
+        "Retake it",
+        "Say Perfect!",
+        "Hand the phone back fast"
+      ],
+      "twist": "They fly home tomorrow."
     },
     {
       "id": "C083",
       "title": "Boring Talk",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're stuck in a very boring conversation.",
+      "choices": [
+        "Fake a phone call",
+        "Be honest",
+        "Stay polite"
+      ],
+      "twist": "Your phone actually rings."
     },
     {
       "id": "C084",
       "title": "Lost Line",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You forget your line mid-play.",
+      "choices": [
+        "Improvise",
+        "Whisper for help",
+        "Laugh and freeze"
+      ],
+      "twist": "A friend mouths the wrong line."
     },
     {
       "id": "C085",
       "title": "Impression",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Friends beg for your impression of your teacher or boss.",
+      "choices": [
+        "Do it perfectly",
+        "Imitate someone else",
+        "Refuse"
+      ],
+      "twist": "They walk in halfway through."
     },
     {
       "id": "C086",
       "title": "Talking Pet",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your pet can talk for one day.",
+      "choices": [
+        "Ask what it thinks of you",
+        "Ask about the neighbors",
+        "Take it out in public"
+      ],
+      "twist": "It repeats everything it hears."
     },
     {
       "id": "C087",
       "title": "Mystery Button",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A new unmarked button appears in your elevator.",
+      "choices": [
+        "Press it",
+        "Ask someone first",
+        "Ignore it"
+      ],
+      "twist": "A stranger whispers, Don't."
     },
     {
       "id": "C088",
       "title": "Tiny Town",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You discover a tiny town in your backyard.",
+      "choices": [
+        "Keep it secret",
+        "Show friends",
+        "Protect it quietly"
+      ],
+      "twist": "A TV crew offers you fame for finding it."
     },
     {
       "id": "C089",
       "title": "Alien Guide",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friendly alien needs a guide for one afternoon.",
+      "choices": [
+        "Your school or work",
+        "A park",
+        "Your home"
+      ],
+      "twist": "It announces everyone's honest thoughts out loud."
     },
     {
       "id": "C090",
       "title": "Friendly Ghost",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friendly ghost offers you a free stay in its mansion.",
+      "choices": [
+        "Stay alone",
+        "Bring friends",
+        "Visit by day"
+      ],
+      "twist": "It only appears to people who are alone."
     },
     {
       "id": "C091",
       "title": "Magic Pencil",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Whatever you draw becomes real for one hour.",
+      "choices": [
+        "A vehicle",
+        "A pet",
+        "A treehouse"
+      ],
+      "twist": "It looks exactly as badly as you draw it."
     },
     {
       "id": "C092",
       "title": "Treasure Map",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You find a treasure map in the attic.",
+      "choices": [
+        "Dig alone",
+        "Bring friends",
+        "Sell it"
+      ],
+      "twist": "Other people have been seen digging nearby."
     },
     {
       "id": "C093",
       "title": "Mistaken Star",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Everyone thinks you're a celebrity today.",
+      "choices": [
+        "Play along",
+        "Correct them",
+        "Hide"
+      ],
+      "twist": "A reporter asks for an interview."
     },
     {
       "id": "C094",
       "title": "Honest Mirror",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your mirror gives brutally honest outfit reviews.",
+      "choices": [
+        "Ask daily",
+        "Ask only for big days",
+        "Cover it"
+      ],
+      "twist": "It also shares its opinions with your family."
     },
     {
       "id": "C095",
       "title": "Memory Eraser",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A button erases one embarrassing moment from everyone's memory.",
+      "choices": [
+        "Erase yours",
+        "Erase a friend's",
+        "Save it"
+      ],
+      "twist": "Your friends each have a moment they want erased too."
     },
     {
       "id": "C096",
       "title": "Imaginary Friend",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your childhood imaginary friend appears, real.",
+      "choices": [
+        "Introduce them proudly",
+        "Hide them",
+        "Quiz them on old memories"
+      ],
+      "twist": "They remember every embarrassing thing."
     },
     {
       "id": "C097",
       "title": "Wizard Neighbor",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your neighbor is secretly a wizard.",
+      "choices": [
+        "Ask for a spell",
+        "Keep the secret",
+        "Befriend them slowly"
+      ],
+      "twist": "His spells always misfire."
     },
     {
       "id": "C098",
       "title": "Borrowed Voice",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You get a different voice for a day.",
+      "choices": [
+        "Deep movie voice",
+        "Cartoon voice",
+        "Opera singer"
+      ],
+      "twist": "You must answer every phone call."
     },
     {
       "id": "C099",
       "title": "Time Loop",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You repeat the same Saturday ten times.",
+      "choices": [
+        "Perfect it",
+        "Do wild things",
+        "Do nothing"
+      ],
+      "twist": "One friend remembers every loop with you."
     },
     {
       "id": "C100",
       "title": "Parallel You",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You meet a version of yourself who chose differently.",
+      "choices": [
+        "Ask what you missed",
+        "Swap places for a day",
+        "Avoid them"
+      ],
+      "twist": "They seem happier than you."
     },
     {
       "id": "C101",
