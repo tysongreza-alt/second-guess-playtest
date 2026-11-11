@@ -1464,7 +1464,609 @@
     }
   ],
   "chatgpt_new": [],
-  "claude_second_round": [],
+  "claude_second_round": [
+    {
+      "id": "C051",
+      "title": "Sibling Snoop",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C052",
+      "title": "Grandparent Sign",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C053",
+      "title": "Holiday Card",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C054",
+      "title": "Snore Watch",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C055",
+      "title": "Open Phone",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C056",
+      "title": "Wrapping Fail",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C057",
+      "title": "Mom Slip",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C058",
+      "title": "Kids' Table",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C059",
+      "title": "Secret Signal",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C060",
+      "title": "Card Cheat",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C061",
+      "title": "Twin Outfits",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C062",
+      "title": "Borrowed Stuff",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C063",
+      "title": "Introductions",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C064",
+      "title": "Whispered Plans",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C065",
+      "title": "Big News",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C066",
+      "title": "Hiccup Speech",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C067",
+      "title": "Backward Shirt",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C068",
+      "title": "Mic Ambush",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C069",
+      "title": "Store Dance",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C070",
+      "title": "Mistaken Hug",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C071",
+      "title": "Mascot Dance-Off",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C072",
+      "title": "Hug Note",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C073",
+      "title": "Wrong Room",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C074",
+      "title": "Lone Clapper",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C075",
+      "title": "Seagull Thief",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C076",
+      "title": "Window Wave",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C077",
+      "title": "Glitter Gift",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C078",
+      "title": "Autocorrect Reply",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C079",
+      "title": "Chat Rename",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C080",
+      "title": "Loud Whisper",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C081",
+      "title": "Mismatched Shoes",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C082",
+      "title": "Blurry Photo",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C083",
+      "title": "Boring Talk",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C084",
+      "title": "Lost Line",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C085",
+      "title": "Impression",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C086",
+      "title": "Talking Pet",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C087",
+      "title": "Mystery Button",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C088",
+      "title": "Tiny Town",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C089",
+      "title": "Alien Guide",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C090",
+      "title": "Friendly Ghost",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C091",
+      "title": "Magic Pencil",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C092",
+      "title": "Treasure Map",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C093",
+      "title": "Mistaken Star",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C094",
+      "title": "Honest Mirror",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C095",
+      "title": "Memory Eraser",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C096",
+      "title": "Imaginary Friend",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C097",
+      "title": "Wizard Neighbor",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C098",
+      "title": "Borrowed Voice",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C099",
+      "title": "Time Loop",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C100",
+      "title": "Parallel You",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C101",
+      "title": "Deciding Shot",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C102",
+      "title": "Loophole",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C103",
+      "title": "Hide-and-Seek",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C104",
+      "title": "Captain's Pick",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C105",
+      "title": "Charades Gamble",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C106",
+      "title": "Trivia Crew",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C107",
+      "title": "Tiny Judge",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C108",
+      "title": "Fort Siege",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C109",
+      "title": "Tower Panic",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C110",
+      "title": "Buzzer Gamble",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C111",
+      "title": "Spelling Duel",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C112",
+      "title": "Last Hole",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C113",
+      "title": "Show-Down",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C114",
+      "title": "Pie Pick",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C115",
+      "title": "Poker Face",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C116",
+      "title": "Don't Laugh",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C117",
+      "title": "Egg Toss",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C118",
+      "title": "Last Dodger",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C119",
+      "title": "Switch Sides",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C120",
+      "title": "Cheer Lead",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C121",
+      "title": "Dinner Neighbor",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C122",
+      "title": "Secret Gift",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C123",
+      "title": "Going Viral",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C124",
+      "title": "Golden Pass",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C125",
+      "title": "One-Hour Boss",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C126",
+      "title": "Skip Pass",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C127",
+      "title": "Odd Inheritance",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C128",
+      "title": "Prank Payback",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C129",
+      "title": "Table Toast",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C130",
+      "title": "Compliment Echo",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C131",
+      "title": "Mystery Partner",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C132",
+      "title": "Big Gamble",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C133",
+      "title": "Generous Friend",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C134",
+      "title": "Volunteer Call",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C135",
+      "title": "Phone-Free Cash",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C136",
+      "title": "Nickname Vote",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C137",
+      "title": "Trophy Spot",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C138",
+      "title": "Statue",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C139",
+      "title": "Hot Seat",
+      "status": "priority_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C140",
+      "title": "Gift Steal",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C141",
+      "title": "Public Dare",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C142",
+      "title": "Chaos Rule",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C143",
+      "title": "Celebrity Visit",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C144",
+      "title": "Announcement",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C145",
+      "title": "Puppy Name",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C146",
+      "title": "Overshare",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C147",
+      "title": "Hype Friend",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C148",
+      "title": "Group Costume",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C149",
+      "title": "Last Word",
+      "status": "pending_cross_review",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    },
+    {
+      "id": "C150",
+      "title": "Grand Finale",
+      "status": "low_priority",
+      "source": "Claude submission in conversation; full text pending structured transcription"
+    }
+  ],
   "reserves": [],
-  "final_selected": []
+  "final_selected": [],
+  "next_step": "Independent ChatGPT creation, cross-review, and complete source-text import before publishing"
 }
