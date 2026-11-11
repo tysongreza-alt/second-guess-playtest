@@ -1,0 +1,1343 @@
+{
+  "schema": "called-it-playtest-edition-v1",
+  "version": "2026.11.11.1",
+  "date": "2026-11-11",
+  "status": "provisional editorial selection, untested",
+  "method": "Editorial selection from 350 candidates; 100 playable and 20 reserves. No empirical scores claimed.",
+  "composition": {
+    "original": 20,
+    "claude": 50,
+    "chatgpt": 30
+  },
+  "cards": [
+    {
+      "id": "C001",
+      "title": "Wrong Recipient",
+      "scenario": "Your goofy text went to someone you want to impress.",
+      "choices": [
+        "Explain immediately",
+        "Pretend it was intentional",
+        "Say nothing"
+      ],
+      "twist": "They reply with just a question mark."
+    },
+    {
+      "id": "G001",
+      "title": "Secret Menu",
+      "scenario": "A restaurant lets you invent one menu item.",
+      "choices": [
+        "Your favorite mashup",
+        "An outrageous dessert",
+        "A meal named after you"
+      ],
+      "twist": "The chef will serve it to everyone at your table."
+    },
+    {
+      "id": "C003",
+      "title": "Borrowed Jacket",
+      "scenario": "You spill juice on a friend's borrowed jacket.",
+      "choices": [
+        "Confess now",
+        "Clean it secretly",
+        "Quietly replace it"
+      ],
+      "twist": "They tell you it was a gift from their grandmother."
+    },
+    {
+      "id": "G002",
+      "title": "Wrong Trophy",
+      "scenario": "You receive an award meant for someone else.",
+      "choices": [
+        "Correct the host",
+        "Accept, then explain",
+        "Hand it to the winner"
+      ],
+      "twist": "The actual winner is sitting beside you."
+    },
+    {
+      "id": "C006",
+      "title": "Forgotten Wallet",
+      "scenario": "A friend forgot their wallet at lunch.",
+      "choices": [
+        "Cover them",
+        "Split with the group",
+        "Let them figure it out"
+      ],
+      "twist": "It's the third time this month."
+    },
+    {
+      "id": "G005",
+      "title": "One Free Lie",
+      "scenario": "You may tell one harmless lie everyone will believe.",
+      "choices": [
+        "Escape a chore",
+        "Win an argument",
+        "Pull a prank"
+      ],
+      "twist": "Your best friend will know you made it up."
+    },
+    {
+      "id": "C007",
+      "title": "Grandparent's Gift",
+      "scenario": "Grandma gives you a gift you'll never use.",
+      "choices": [
+        "Gush about it",
+        "Thank her honestly",
+        "Ask where she found it"
+      ],
+      "twist": "She asks to see you use it tomorrow."
+    },
+    {
+      "id": "G006",
+      "title": "The Extra Ticket",
+      "scenario": "You win a ticket to an amazing event.",
+      "choices": [
+        "Take a friend",
+        "Take a relative",
+        "Go alone"
+      ],
+      "twist": "The guest gets to meet the performer; you don't."
+    },
+    {
+      "id": "C008",
+      "title": "Wrong Name",
+      "scenario": "A new friend has called you the wrong name for months.",
+      "choices": [
+        "Correct them now",
+        "Ignore it forever",
+        "Start answering to it"
+      ],
+      "twist": "They introduce you to their family using that name."
+    },
+    {
+      "id": "G008",
+      "title": "Borrowed Laugh",
+      "scenario": "You laugh exactly like one person for a day.",
+      "choices": [
+        "Best friend",
+        "Movie villain",
+        "Cartoon character"
+      ],
+      "twist": "Every time you laugh, they hear it too."
+    },
+    {
+      "id": "C010",
+      "title": "Proud Chef",
+      "scenario": "A friend proudly serves you a dish that tastes awful.",
+      "choices": [
+        "Eat it all",
+        "Eat some, praise it",
+        "Politely decline"
+      ],
+      "twist": "They're entering it in a contest tomorrow."
+    },
+    {
+      "id": "G009",
+      "title": "The Apology Prize",
+      "scenario": "You accidentally break a friend's inexpensive keepsake.",
+      "choices": [
+        "Replace it",
+        "Repair it together",
+        "Offer a favor"
+      ],
+      "twist": "They admit they once broke something of yours."
+    },
+    {
+      "id": "C014",
+      "title": "Fake Laugh",
+      "scenario": "Someone tells a joke you don't understand.",
+      "choices": [
+        "Laugh anyway",
+        "Ask them to explain",
+        "Smile politely"
+      ],
+      "twist": "They ask what your favorite part was."
+    },
+    {
+      "id": "G010",
+      "title": "Mystery Teammate",
+      "scenario": "Choose a partner for a silly mystery challenge.",
+      "choices": [
+        "Most competitive friend",
+        "Funniest person",
+        "Someone you've just met"
+      ],
+      "twist": "Your partner gets to choose what the challenge is."
+    },
+    {
+      "id": "C016",
+      "title": "Costume Mix-Up",
+      "scenario": "You arrive in full costume. Nobody else did.",
+      "choices": [
+        "Stay committed",
+        "Leave and change",
+        "Quietly remove pieces"
+      ],
+      "twist": "A photographer is taking the official party photo."
+    },
+    {
+      "id": "G011",
+      "title": "The Honest Review",
+      "scenario": "A friend asks you to review their homemade game.",
+      "choices": [
+        "Praise the best part",
+        "Suggest improvements",
+        "Play another round"
+      ],
+      "twist": "They've already submitted it to a contest."
+    },
+    {
+      "id": "C017",
+      "title": "Karaoke Ambush",
+      "scenario": "Friends signed you up for karaoke.",
+      "choices": [
+        "Sing with full confidence",
+        "Sing badly on purpose",
+        "Drag a friend up"
+      ],
+      "twist": "The song starts, and you've never heard it before."
+    },
+    {
+      "id": "G014",
+      "title": "Secret Talent",
+      "scenario": "You discover you're brilliant at one odd skill.",
+      "choices": [
+        "Juggling",
+        "Impressions",
+        "Speed puzzles"
+      ],
+      "twist": "Your family enters you in a public competition."
+    },
+    {
+      "id": "C020",
+      "title": "Nickname Spotlight",
+      "scenario": "You must share one fun fact about yourself.",
+      "choices": [
+        "A real embarrassing one",
+        "A made-up silly one",
+        "Pass"
+      ],
+      "twist": "Your answer becomes your nickname for the year."
+    },
+    {
+      "id": "G015",
+      "title": "The Compliment Contest",
+      "scenario": "You enter a contest to give someone a compliment.",
+      "choices": [
+        "Be hilarious",
+        "Be heartfelt",
+        "Be surprisingly specific"
+      ],
+      "twist": "The winner has to hear the compliment repeated onstage."
+    },
+    {
+      "id": "C021",
+      "title": "Robot Sidekick",
+      "scenario": "A tiny robot sidekick follows you for a week.",
+      "choices": [
+        "One that does chores",
+        "One that tells jokes",
+        "One that knows every fact"
+      ],
+      "twist": "It announces everything it thinks, out loud."
+    },
+    {
+      "id": "O002",
+      "title": "Movie Night",
+      "scenario": "You pick tonight's movie.",
+      "choices": [
+        "Comedy",
+        "Adventure",
+        "Mystery"
+      ],
+      "twist": "The person beside you has already seen your pick and promises to spoil the ending."
+    },
+    {
+      "id": "C025",
+      "title": "Pocket Dragon",
+      "scenario": "A tiny dragon hatches in your room.",
+      "choices": [
+        "Teach it tricks",
+        "Keep it secret",
+        "Show everyone"
+      ],
+      "twist": "It sneezes sparks whenever it gets excited."
+    },
+    {
+      "id": "G019",
+      "title": "The Big Reveal",
+      "scenario": "You must reveal one harmless secret about yourself.",
+      "choices": [
+        "Hidden hobby",
+        "Embarrassing favorite song",
+        "Funny childhood story"
+      ],
+      "twist": "Someone here already knows your secret."
+    },
+    {
+      "id": "C027",
+      "title": "Swap Day",
+      "scenario": "You swap lives with someone for one day.",
+      "choices": [
+        "A parent",
+        "A pro athlete",
+        "Your best friend"
+      ],
+      "twist": "They answer all your messages and calls."
+    },
+    {
+      "id": "O004",
+      "title": "Perfect Seat",
+      "scenario": "Where do you sit at the movies?",
+      "choices": [
+        "Middle",
+        "Back",
+        "Front"
+      ],
+      "twist": "Your best friend insists on sitting in the exact opposite section."
+    },
+    {
+      "id": "C028",
+      "title": "Street Makeover",
+      "scenario": "Overnight, you redesign your street.",
+      "choices": [
+        "Giant slide",
+        "Giant mural",
+        "Mini golf course"
+      ],
+      "twist": "Your neighbors vote tomorrow on whether the change stays."
+    },
+    {
+      "id": "G020",
+      "title": "Free Lesson",
+      "scenario": "A celebrity offers to teach you one thing.",
+      "choices": [
+        "A party trick",
+        "A practical skill",
+        "Their signature move"
+      ],
+      "twist": "You must teach it to a stranger tomorrow."
+    },
+    {
+      "id": "C029",
+      "title": "Time Capsule",
+      "scenario": "You bury one item to be opened in 20 years.",
+      "choices": [
+        "A letter to your future self",
+        "Your favorite gadget",
+        "A photo of your friends"
+      ],
+      "twist": "Everyone you know will see it at opening."
+    },
+    {
+      "id": "O005",
+      "title": "Food Forever",
+      "scenario": "Give up one forever.",
+      "choices": [
+        "Ice cream",
+        "Fries",
+        "Pizza"
+      ],
+      "twist": "The other two become free for life."
+    },
+    {
+      "id": "C032",
+      "title": "Escape Room",
+      "scenario": "You're in an escape room. Pick your job.",
+      "choices": [
+        "Solve puzzles",
+        "Search for clues",
+        "Keep the team calm"
+      ],
+      "twist": "Five minutes left, and the team starts arguing."
+    },
+    {
+      "id": "G021",
+      "title": "Silent Challenge",
+      "scenario": "Win a prize by staying silent for an hour.",
+      "choices": [
+        "Use gestures",
+        "Write notes",
+        "Avoid everyone"
+      ],
+      "twist": "Your funniest friend is assigned to distract you."
+    },
+    {
+      "id": "C033",
+      "title": "Clue Giver",
+      "scenario": "You're giving hints in a word-guessing game.",
+      "choices": [
+        "Obvious hints",
+        "Clever hints",
+        "Silly hints"
+      ],
+      "twist": "Your partner takes everything literally."
+    },
+    {
+      "id": "O006",
+      "title": "Theme Park",
+      "scenario": "Skip the line for one attraction.",
+      "choices": [
+        "Roller coaster",
+        "Water ride",
+        "Indoor ride"
+      ],
+      "twist": "You must ride it three times."
+    },
+    {
+      "id": "C035",
+      "title": "Tied Trophy",
+      "scenario": "You tie for first. There's one trophy.",
+      "choices": [
+        "Share it monthly",
+        "Rematch now",
+        "Flip a coin"
+      ],
+      "twist": "Your friend has never won anything."
+    },
+    {
+      "id": "G025",
+      "title": "Your Own Mascot",
+      "scenario": "Choose a mascot to follow you for a week.",
+      "choices": [
+        "Tiny dinosaur",
+        "Dancing robot",
+        "Giant plush bear"
+      ],
+      "twist": "It cheers every time you enter a room."
+    },
+    {
+      "id": "C038",
+      "title": "Secret Alliance",
+      "scenario": "In a board game, a friend offers an alliance.",
+      "choices": [
+        "Accept",
+        "Decline",
+        "Pretend to accept"
+      ],
+      "twist": "Your ally is secretly in the lead."
+    },
+    {
+      "id": "O007",
+      "title": "Friends Over",
+      "scenario": "You're hosting friends tonight. What's the plan?",
+      "choices": [
+        "Movie marathon",
+        "Games and challenges",
+        "Food and conversation"
+      ],
+      "twist": "A new guest doesn't know anyone, and you've promised to include them."
+    },
+    {
+      "id": "C039",
+      "title": "Blindfold Guide",
+      "scenario": "Your teammate is blindfolded and you guide them through a course.",
+      "choices": [
+        "Detailed directions",
+        "Short commands",
+        "Ask to guide them by hand"
+      ],
+      "twist": "The other team starts shouting fake directions."
+    },
+    {
+      "id": "G026",
+      "title": "The Surprise Judge",
+      "scenario": "You're judging a contest among friends.",
+      "choices": [
+        "Most creative",
+        "Most skilled",
+        "Most entertaining"
+      ],
+      "twist": "Every contestant gets to judge your next attempt."
+    },
+    {
+      "id": "C040",
+      "title": "Lemonade War",
+      "scenario": "A rival opens a lemonade stand across the street.",
+      "choices": [
+        "Cut prices",
+        "Add a gimmick",
+        "Team up"
+      ],
+      "twist": "They're giving away free cookies."
+    },
+    {
+      "id": "O008",
+      "title": "Perfect Breakfast",
+      "scenario": "Choose a breakfast prepared perfectly.",
+      "choices": [
+        "Pancakes",
+        "Breakfast sandwich",
+        "Sweet pastry"
+      ],
+      "twist": "You must eat the same breakfast every morning for a month."
+    },
+    {
+      "id": "C042",
+      "title": "Spend It Fast",
+      "scenario": "You win $500 and must spend it within 24 hours.",
+      "choices": [
+        "On yourself",
+        "On friends and family",
+        "One big purchase"
+      ],
+      "twist": "Everyone you know will see what you bought."
+    },
+    {
+      "id": "G029",
+      "title": "The Last Laugh",
+      "scenario": "Your friend challenges you not to laugh.",
+      "choices": [
+        "Make a serious face",
+        "Look away",
+        "Try to make them laugh"
+      ],
+      "twist": "Your own embarrassing video starts playing."
+    },
+    {
+      "id": "C043",
+      "title": "The 25th Hour",
+      "scenario": "You get an extra hour every day, forever.",
+      "choices": [
+        "Sleep",
+        "Hobbies",
+        "Friends"
+      ],
+      "twist": "Everyone else is asleep during it."
+    },
+    {
+      "id": "O011",
+      "title": "Long Drive",
+      "scenario": "Six hours in a car. How do you pass the time?",
+      "choices": [
+        "Music",
+        "Conversation and games",
+        "Sleep"
+      ],
+      "twist": "You must keep the driver entertained."
+    },
+    {
+      "id": "C044",
+      "title": "Named After You",
+      "scenario": "Something new is named after you.",
+      "choices": [
+        "An ice cream flavor",
+        "A roller coaster",
+        "A mountain trail"
+      ],
+      "twist": "The name includes your most embarrassing nickname."
+    },
+    {
+      "id": "G033",
+      "title": "One-Time Replay",
+      "scenario": "Replay ten minutes of your day.",
+      "choices": [
+        "Fix a mistake",
+        "Repeat a fun moment",
+        "Help someone better"
+      ],
+      "twist": "Everyone else remembers both versions."
+    },
+    {
+      "id": "C049",
+      "title": "Double Gift",
+      "scenario": "You received the same gift twice.",
+      "choices": [
+        "Keep both",
+        "Re-gift one",
+        "Return one"
+      ],
+      "twist": "Both givers will ask about it next week."
+    },
+    {
+      "id": "O013",
+      "title": "Party Playlist",
+      "scenario": "You control the party music.",
+      "choices": [
+        "Popular classics",
+        "Your favorites",
+        "Dance songs"
+      ],
+      "twist": "You must perform with every song."
+    },
+    {
+      "id": "C050",
+      "title": "Raffle Win",
+      "scenario": "You win a raffle prize you don't want.",
+      "choices": [
+        "Keep it",
+        "Trade quietly",
+        "Give it away"
+      ],
+      "twist": "The person who donated it is right behind you."
+    },
+    {
+      "id": "G034",
+      "title": "Secret Scorekeeper",
+      "scenario": "You may add one rule to game night.",
+      "choices": [
+        "Bonus for last place",
+        "Double final round",
+        "Swap teams"
+      ],
+      "twist": "Everyone votes on whether the rule stays for the rest of the night."
+    },
+    {
+      "id": "C051",
+      "title": "Sibling Snoop",
+      "scenario": "Your sibling's private notebook is open on the table.",
+      "choices": [
+        "Walk away",
+        "Read one line",
+        "Tell them it's open"
+      ],
+      "twist": "You notice your name written at the top of the page."
+    },
+    {
+      "id": "O019",
+      "title": "Prize Wheel",
+      "scenario": "Choose one prize from a prize wheel.",
+      "choices": [
+        "A gaming setup",
+        "A weekend getaway",
+        "Your favorite food free for a year"
+      ],
+      "twist": "The person on your left gets to use your prize first."
+    },
+    {
+      "id": "C057",
+      "title": "Mom Slip",
+      "scenario": "You accidentally call your teacher or boss 'Mom'.",
+      "choices": [
+        "Laugh loudly",
+        "Pretend it didn't happen",
+        "Do it again"
+      ],
+      "twist": "The whole room goes silent."
+    },
+    {
+      "id": "G035",
+      "title": "The Neighborhood Legend",
+      "scenario": "A rumor says you're amazing at something.",
+      "choices": [
+        "Cooking",
+        "Dancing",
+        "Trivia"
+      ],
+      "twist": "Neighbors ask for a demonstration tonight."
+    },
+    {
+      "id": "C058",
+      "title": "Kids' Table",
+      "scenario": "Family dinner has a kids' table and an adults' table.",
+      "choices": [
+        "Kids' table",
+        "Adults' table",
+        "Float between"
+      ],
+      "twist": "The kids' table is getting all the games."
+    },
+    {
+      "id": "O029",
+      "title": "Unpopular Opinion",
+      "scenario": "Everyone disagrees with your harmless opinion.",
+      "choices": [
+        "Defend it",
+        "Laugh it off",
+        "Convince one person"
+      ],
+      "twist": "The person you most want to impress secretly agrees with you."
+    },
+    {
+      "id": "C060",
+      "title": "Card Cheat",
+      "scenario": "Grandpa clearly cheats at cards.",
+      "choices": [
+        "Call him out",
+        "Cheat back",
+        "Let him win"
+      ],
+      "twist": "The family trophy is on the line."
+    },
+    {
+      "id": "G037",
+      "title": "The Surprise Duet",
+      "scenario": "Someone invites you to perform a duet.",
+      "choices": [
+        "Favorite song",
+        "Funny song",
+        "Make one up"
+      ],
+      "twist": "They let you choose the song but insist on singing first."
+    },
+    {
+      "id": "C063",
+      "title": "Introductions",
+      "scenario": "You must introduce a friend to a group.",
+      "choices": [
+        "Embarrassing story",
+        "Brag about them",
+        "Just their name"
+      ],
+      "twist": "They introduce you next."
+    },
+    {
+      "id": "O033",
+      "title": "The Unexpected Day Off",
+      "scenario": "You wake up to a surprise day off.",
+      "choices": [
+        "Go somewhere new",
+        "Invite friends out",
+        "Stay home"
+      ],
+      "twist": "Everyone you know also has the day off."
+    },
+    {
+      "id": "C070",
+      "title": "Mistaken Hug",
+      "scenario": "Someone hugs you, mistaking you for an old friend.",
+      "choices": [
+        "Hug back",
+        "Correct them",
+        "Play along"
+      ],
+      "twist": "They say they haven't seen you in years."
+    },
+    {
+      "id": "G038",
+      "title": "The Lost Bet",
+      "scenario": "You lose a silly bet with friends.",
+      "choices": [
+        "Wear a funny hat",
+        "Tell an embarrassing story",
+        "Do a silly dance"
+      ],
+      "twist": "The winner offers to do half the punishment with you."
+    },
+    {
+      "id": "C071",
+      "title": "Mascot Dance-Off",
+      "scenario": "The team mascot picks you from the crowd.",
+      "choices": [
+        "Go all in",
+        "Awkward shuffle",
+        "Decline"
+      ],
+      "twist": "Your section starts chanting your name."
+    },
+    {
+      "id": "O042",
+      "title": "Mind Reading",
+      "scenario": "Read one person's thoughts for ten minutes.",
+      "choices": [
+        "Best friend",
+        "Someone admired",
+        "Stranger"
+      ],
+      "twist": "They hear your thoughts too."
+    },
+    {
+      "id": "C073",
+      "title": "Wrong Room",
+      "scenario": "You walk into the wrong classroom or meeting.",
+      "choices": [
+        "Bow and leave",
+        "Pretend you belong",
+        "Ask for the right room"
+      ],
+      "twist": "They offer you a seat."
+    },
+    {
+      "id": "G041",
+      "title": "One Question",
+      "scenario": "You may ask one person any harmless question.",
+      "choices": [
+        "Best friend",
+        "Someone you admire",
+        "Someone you've just met"
+      ],
+      "twist": "They get to ask you the same question."
+    },
+    {
+      "id": "C080",
+      "title": "Loud Whisper",
+      "scenario": "You accidentally whisper a secret too loudly.",
+      "choices": [
+        "Admit what you said",
+        "Change the subject",
+        "Pretend they misheard"
+      ],
+      "twist": "The person you were talking about is standing nearby."
+    },
+    {
+      "id": "O045",
+      "title": "Magic Skill",
+      "scenario": "Choose a permanent ability.",
+      "choices": [
+        "Detect lies",
+        "Find lost things",
+        "Never get lost"
+      ],
+      "twist": "People can ask you to use it anytime."
+    },
+    {
+      "id": "C085",
+      "title": "Impression",
+      "scenario": "Friends ask you to imitate your teacher or boss.",
+      "choices": [
+        "Do it perfectly",
+        "Imitate someone else",
+        "Refuse"
+      ],
+      "twist": "That person walks in halfway through."
+    },
+    {
+      "id": "G042",
+      "title": "The Fake Expert",
+      "scenario": "People mistakenly believe you're an expert.",
+      "choices": [
+        "Admit you don't",
+        "Try anyway",
+        "Ask someone to teach you"
+      ],
+      "twist": "They've already introduced you as tonight's instructor."
+    },
+    {
+      "id": "C086",
+      "title": "Talking Pet",
+      "scenario": "Your pet can talk for one day.",
+      "choices": [
+        "Ask what it thinks of you",
+        "Ask about the neighbors",
+        "Take it out in public"
+      ],
+      "twist": "It repeats everything it hears."
+    },
+    {
+      "id": "O049",
+      "title": "Memory Replay",
+      "scenario": "Relive one memory perfectly.",
+      "choices": [
+        "Funniest day",
+        "Proudest moment",
+        "A day with someone you miss"
+      ],
+      "twist": "Everyone who was there gets to relive it with you."
+    },
+    {
+      "id": "C089",
+      "title": "Alien Guide",
+      "scenario": "A friendly alien needs a guide for one afternoon.",
+      "choices": [
+        "Your school or work",
+        "A park",
+        "Your home"
+      ],
+      "twist": "It announces everyone's honest thoughts out loud."
+    },
+    {
+      "id": "G047",
+      "title": "The Unexpected Rematch",
+      "scenario": "Someone you beat at a game asks for a rematch.",
+      "choices": [
+        "Agree immediately",
+        "Change the game",
+        "Offer teams"
+      ],
+      "twist": "They've been practicing for a month."
+    },
+    {
+      "id": "C090",
+      "title": "Friendly Ghost",
+      "scenario": "A friendly ghost offers you a free stay in its mansion.",
+      "choices": [
+        "Stay alone",
+        "Bring friends",
+        "Visit by day"
+      ],
+      "twist": "The ghost will only appear if you stay alone."
+    },
+    {
+      "id": "O058",
+      "title": "Lucky Coin",
+      "scenario": "A coin guarantees success once. Use it for...",
+      "choices": [
+        "Competition",
+        "Hard conversation",
+        "Personal goal"
+      ],
+      "twist": "Everyone knows you're using it."
+    },
+    {
+      "id": "C091",
+      "title": "Magic Pencil",
+      "scenario": "Whatever you draw becomes real for one hour.",
+      "choices": [
+        "A vehicle",
+        "A pet",
+        "A treehouse"
+      ],
+      "twist": "It looks exactly as badly as you draw it."
+    },
+    {
+      "id": "G051",
+      "title": "Wrong Winner",
+      "scenario": "You receive the prize meant for another contestant.",
+      "choices": [
+        "Return it quietly",
+        "Announce the mistake",
+        "Ask the organizer"
+      ],
+      "twist": "The real winner is your biggest rival."
+    },
+    {
+      "id": "C094",
+      "title": "Honest Mirror",
+      "scenario": "Your mirror gives brutally honest outfit reviews.",
+      "choices": [
+        "Ask daily",
+        "Ask only for big days",
+        "Cover it"
+      ],
+      "twist": "It also shares its opinions with your family."
+    },
+    {
+      "id": "O068",
+      "title": "Snow Day",
+      "scenario": "Unexpected snow day. Choose.",
+      "choices": [
+        "Play outside",
+        "Stay cozy",
+        "Visit nearby friends"
+      ],
+      "twist": "Snow melts by noon."
+    },
+    {
+      "id": "C096",
+      "title": "Imaginary Friend",
+      "scenario": "Your childhood imaginary friend appears, real.",
+      "choices": [
+        "Introduce them proudly",
+        "Hide them",
+        "Quiz them on old memories"
+      ],
+      "twist": "They remember every embarrassing thing."
+    },
+    {
+      "id": "G054",
+      "title": "The Mystery Caller",
+      "scenario": "A stranger calls and insists you're their old friend.",
+      "choices": [
+        "Correct them",
+        "Play along briefly",
+        "Ask for clues"
+      ],
+      "twist": "They remember a story that really happened to you."
+    },
+    {
+      "id": "C099",
+      "title": "Time Loop",
+      "scenario": "You repeat the same Saturday ten times.",
+      "choices": [
+        "Perfect it",
+        "Do wild things",
+        "Do nothing"
+      ],
+      "twist": "One friend remembers every loop with you."
+    },
+    {
+      "id": "O074",
+      "title": "Final Point",
+      "scenario": "You're one point from winning a friendly game.",
+      "choices": [
+        "Play it safe",
+        "Take a big risk",
+        "Try to outsmart everyone"
+      ],
+      "twist": "Your youngest opponent is about to win for the first time."
+    },
+    {
+      "id": "C102",
+      "title": "Loophole",
+      "scenario": "You spot a rule loophole that guarantees victory.",
+      "choices": [
+        "Use it now",
+        "Tell everyone",
+        "Save it for later"
+      ],
+      "twist": "The opponent who would lose just helped you earlier."
+    },
+    {
+      "id": "G066",
+      "title": "The Shared Jackpot",
+      "scenario": "You and a friend win a small prize together.",
+      "choices": [
+        "Split equally",
+        "Let them choose first",
+        "Trade for something else"
+      ],
+      "twist": "They insist you did all the work."
+    },
+    {
+      "id": "C105",
+      "title": "Charades Gamble",
+      "scenario": "Choose your charades card.",
+      "choices": [
+        "Easy",
+        "Hard, double points",
+        "Act it with a partner"
+      ],
+      "twist": "It's the last turn and your team is one point behind."
+    },
+    {
+      "id": "O075",
+      "title": "Talent Show",
+      "scenario": "Enter a talent contest.",
+      "choices": [
+        "Comedy",
+        "Music",
+        "Magic"
+      ],
+      "twist": "Perform with someone you barely know."
+    },
+    {
+      "id": "C110",
+      "title": "Buzzer Gamble",
+      "scenario": "You're 70% sure of the answer.",
+      "choices": [
+        "Buzz now",
+        "Wait",
+        "Whisper to your teammate"
+      ],
+      "twist": "Wrong answers cost points."
+    },
+    {
+      "id": "G077",
+      "title": "The Board Game Betrayal",
+      "scenario": "Your teammate in a board game offers a secret deal.",
+      "choices": [
+        "Accept",
+        "Counteroffer",
+        "Tell the group"
+      ],
+      "twist": "They reveal they can win without your help."
+    },
+    {
+      "id": "C113",
+      "title": "Show-Down",
+      "scenario": "A tie is settled with rock-paper-scissors.",
+      "choices": [
+        "Rock",
+        "Paper",
+        "Scissors"
+      ],
+      "twist": "Your opponent tells you their move before you choose."
+    },
+    {
+      "id": "O076",
+      "title": "Trivia Lifeline",
+      "scenario": "Choose a lifeline for the final quiz question.",
+      "choices": [
+        "Ask a trusted friend",
+        "Remove one wrong answer",
+        "Get an extra minute"
+      ],
+      "twist": "Using a lifeline means splitting your prize with a stranger."
+    },
+    {
+      "id": "C114",
+      "title": "Pie Pick",
+      "scenario": "You must choose who gets a harmless whipped-cream pie in the face.",
+      "choices": [
+        "Yourself",
+        "Best friend",
+        "Rival"
+      ],
+      "twist": "Whoever you pick chooses the next person."
+    },
+    {
+      "id": "G082",
+      "title": "The Final Clue",
+      "scenario": "You solve the last clue in a group mystery.",
+      "choices": [
+        "Announce it",
+        "Let a friend reveal it",
+        "Wait for confirmation"
+      ],
+      "twist": "Someone else confidently announces a different answer."
+    },
+    {
+      "id": "C123",
+      "title": "Going Viral",
+      "scenario": "A silly video of you unexpectedly goes viral.",
+      "choices": [
+        "Lean in",
+        "Hide",
+        "Make a sequel"
+      ],
+      "twist": "It shows a moment you wish nobody had seen."
+    },
+    {
+      "id": "O079",
+      "title": "Comeback Plan",
+      "scenario": "Your team is losing badly.",
+      "choices": [
+        "Encourage",
+        "Risky strategy",
+        "Aim for one small win"
+      ],
+      "twist": "Opponents offer you one rule change."
+    },
+    {
+      "id": "C133",
+      "title": "Generous Friend",
+      "scenario": "A friend offers to buy you an expensive treat.",
+      "choices": [
+        "Accept",
+        "Refuse politely",
+        "Split it"
+      ],
+      "twist": "You suspect they're spending money they need."
+    },
+    {
+      "id": "G098",
+      "title": "The Friendly Roast",
+      "scenario": "Friends invite you to a playful, good-natured roast.",
+      "choices": [
+        "Roast yourself",
+        "Roast the host",
+        "Tell a compliment disguised as a joke"
+      ],
+      "twist": "The person you tease gets the final comeback."
+    }
+  ],
+  "reserves": [
+    {
+      "id": "O010",
+      "title": "Birthday Dessert",
+      "scenario": "Pick your birthday dessert.",
+      "choices": [
+        "Cake",
+        "Ice cream",
+        "Cookies"
+      ],
+      "twist": "You must make it yourself with no recipe."
+    },
+    {
+      "id": "O017",
+      "title": "Water Park",
+      "scenario": "Have one attraction to yourself.",
+      "choices": [
+        "Wave pool",
+        "Lazy river",
+        "Giant slide"
+      ],
+      "twist": "You have only ten minutes."
+    },
+    {
+      "id": "O022",
+      "title": "Secret Keeper",
+      "scenario": "A friend shares a harmless embarrassing secret.",
+      "choices": [
+        "Keep it private",
+        "Tease privately",
+        "Share one of yours"
+      ],
+      "twist": "They tell everyone tomorrow anyway."
+    },
+    {
+      "id": "O025",
+      "title": "Harmless Prank",
+      "scenario": "Friends plan a harmless prank. Your role?",
+      "choices": [
+        "Plan",
+        "Carry out",
+        "Watch"
+      ],
+      "twist": "The target has had a terrible day."
+    },
+    {
+      "id": "O036",
+      "title": "Game Night Rule",
+      "scenario": "Pick a permanent game-night rule.",
+      "choices": [
+        "Winner picks next",
+        "Last place gets help",
+        "Always try something new"
+      ],
+      "twist": "You must follow it for a year."
+    },
+    {
+      "id": "C002",
+      "title": "Birthday Song",
+      "scenario": "A restaurant sings Happy Birthday to you.",
+      "choices": [
+        "Sing along",
+        "Hide behind the menu",
+        "Stand and bow"
+      ],
+      "twist": "Staff brings a silly hat you must wear."
+    },
+    {
+      "id": "C045",
+      "title": "Your Rule",
+      "scenario": "For one day, everyone follows your rule.",
+      "choices": [
+        "Speak in rhyme",
+        "Dessert first",
+        "Compliments only"
+      ],
+      "twist": "The rule lasts a full week."
+    },
+    {
+      "id": "C052",
+      "title": "Grandparent Sign",
+      "scenario": "Your grandparent holds a giant sign at your event.",
+      "choices": [
+        "Wave proudly",
+        "Hide",
+        "Pretend not to know them"
+      ],
+      "twist": "A camera crew is filming the crowd."
+    },
+    {
+      "id": "C064",
+      "title": "Whispered Plans",
+      "scenario": "Your friends go quiet when you walk in.",
+      "choices": [
+        "Ask",
+        "Pretend not to notice",
+        "Guess aloud"
+      ],
+      "twist": "Your birthday is in three days."
+    },
+    {
+      "id": "C074",
+      "title": "Lone Clapper",
+      "scenario": "You're the only one clapping at a quiet performance.",
+      "choices": [
+        "Keep clapping",
+        "Stop and look around",
+        "Start a standing ovation"
+      ],
+      "twist": "The performer is your friend."
+    },
+    {
+      "id": "C093",
+      "title": "Mistaken Star",
+      "scenario": "Everyone thinks you're a celebrity today.",
+      "choices": [
+        "Play along",
+        "Correct them",
+        "Hide"
+      ],
+      "twist": "A reporter asks for an interview."
+    },
+    {
+      "id": "C104",
+      "title": "Captain's Pick",
+      "scenario": "You're captain, picking first.",
+      "choices": [
+        "Best player",
+        "Best friend",
+        "Newest player"
+      ],
+      "twist": "The other captain is your biggest rival."
+    },
+    {
+      "id": "C128",
+      "title": "Prank Payback",
+      "scenario": "You get to prank the person on your left.",
+      "choices": [
+        "Harmless scare",
+        "Silly disguise",
+        "Fake news"
+      ],
+      "twist": "They choose your payback."
+    },
+    {
+      "id": "C139",
+      "title": "Hot Seat",
+      "scenario": "Ask someone at the table one honest question.",
+      "choices": [
+        "Silly",
+        "Personal",
+        "Embarrassing"
+      ],
+      "twist": "They ask you one back."
+    },
+    {
+      "id": "C145",
+      "title": "Puppy Name",
+      "scenario": "You must name a new puppy.",
+      "choices": [
+        "Silly",
+        "Elegant",
+        "Your own nickname"
+      ],
+      "twist": "You'll shout it across a crowded park."
+    },
+    {
+      "id": "G003",
+      "title": "Mystery Applause",
+      "scenario": "A crowd suddenly applauds when you enter.",
+      "choices": [
+        "Bow",
+        "Ask why",
+        "Join the applause"
+      ],
+      "twist": "Your best friend started it as a joke."
+    },
+    {
+      "id": "G027",
+      "title": "A Tiny Favor",
+      "scenario": "A stranger asks you to help carry something.",
+      "choices": [
+        "Offer directions",
+        "Carry one item",
+        "Recruit a helper"
+      ],
+      "twist": "The item is a giant cardboard trophy."
+    },
+    {
+      "id": "G044",
+      "title": "The Costume Judge",
+      "scenario": "You judge a costume contest.",
+      "choices": [
+        "Funniest costume",
+        "Most impressive",
+        "Most original"
+      ],
+      "twist": "The winner chooses your costume next year."
+    },
+    {
+      "id": "G057",
+      "title": "The Accidental Coach",
+      "scenario": "A team mistakes you for their new coach.",
+      "choices": [
+        "Admit the mistake",
+        "Give one pep talk",
+        "Ask to join them"
+      ],
+      "twist": "They're about to play the championship."
+    },
+    {
+      "id": "G100",
+      "title": "The Secret Ballot",
+      "scenario": "Your friends anonymously vote for the funniest person.",
+      "choices": [
+        "Vote for yourself",
+        "Vote for a friend",
+        "Write in a surprise name"
+      ],
+      "twist": "Everyone must explain their vote afterward."
+    }
+  ],
+  "editorial_notes": [
+    "Source card IDs preserved for provenance and later feedback mapping.",
+    "Some scenarios, options, and twists polished for clarity and agency.",
+    "No switch-rate threshold applied before human testing.",
+    "Review player comfort for embarrassment, privacy, and direct-table interactions.",
+    "Observe repeats and pacing in family and unfamiliar-player groups."
+  ]
+}
