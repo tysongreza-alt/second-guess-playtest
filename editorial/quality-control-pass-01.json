@@ -1,0 +1,464 @@
+{
+  "generated": "2026-11-11",
+  "scope": "200 fully structured cards: 100 original + 100 ChatGPT; Claude 150 await full-text transcription",
+  "method": "Lexical overlap detection and twist-pattern flags; all require human editorial interpretation",
+  "likely_overlap_pairs": [
+    {
+      "a": "O040 Invisible Day",
+      "b": "G049 The Invisible Audience",
+      "similarity": 1
+    },
+    {
+      "a": "O075 Talent Show",
+      "b": "G060 The Unusual Pet Show",
+      "similarity": 1
+    },
+    {
+      "a": "O072 The Secret Ingredient",
+      "b": "G061 The Secret Ingredient Swap",
+      "similarity": 0.75
+    },
+    {
+      "a": "O083 Shopping Spree",
+      "b": "O087 Free Store",
+      "similarity": 0.75
+    },
+    {
+      "a": "O003 Snack Supply",
+      "b": "O090 Free Year",
+      "similarity": 0.67
+    },
+    {
+      "a": "O010 Birthday Dessert",
+      "b": "G053 The Fake Birthday",
+      "similarity": 0.67
+    },
+    {
+      "a": "O012 Arcade Pass",
+      "b": "O065 VIP Pass",
+      "similarity": 0.67
+    },
+    {
+      "a": "O018 Weekend Choice",
+      "b": "O081 Award Choice",
+      "similarity": 0.67
+    },
+    {
+      "a": "O019 Prize Wheel",
+      "b": "O088 Prize Giveaway",
+      "similarity": 0.67
+    },
+    {
+      "a": "O060 Three Doors",
+      "b": "O065 VIP Pass",
+      "similarity": 0.67
+    },
+    {
+      "a": "O063 Big Race",
+      "b": "O075 Talent Show",
+      "similarity": 0.67
+    },
+    {
+      "a": "O063 Big Race",
+      "b": "G060 The Unusual Pet Show",
+      "similarity": 0.67
+    },
+    {
+      "a": "O090 Free Year",
+      "b": "G020 Free Lesson",
+      "similarity": 0.67
+    },
+    {
+      "a": "G016 The Talking Backpack",
+      "b": "G067 The Talking Portrait",
+      "similarity": 0.67
+    },
+    {
+      "a": "G026 The Surprise Judge",
+      "b": "G044 The Costume Judge",
+      "similarity": 0.67
+    },
+    {
+      "a": "O034 Big Favor",
+      "b": "G027 A Tiny Favor",
+      "similarity": 0.6
+    },
+    {
+      "a": "O036 Game Night Rule",
+      "b": "G034 Secret Scorekeeper",
+      "similarity": 0.6
+    },
+    {
+      "a": "O002 Movie Night",
+      "b": "O036 Game Night Rule",
+      "similarity": 0.5
+    },
+    {
+      "a": "O003 Snack Supply",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O003 Snack Supply",
+      "b": "O087 Free Store",
+      "similarity": 0.5
+    },
+    {
+      "a": "O008 Perfect Breakfast",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O009 TV Control",
+      "b": "O052 Weather Control",
+      "similarity": 0.5
+    },
+    {
+      "a": "O012 Arcade Pass",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O013 Party Playlist",
+      "b": "O052 Weather Control",
+      "similarity": 0.5
+    },
+    {
+      "a": "O019 Prize Wheel",
+      "b": "O020 Dinner Vote",
+      "similarity": 0.5
+    },
+    {
+      "a": "O019 Prize Wheel",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O020 Dinner Vote",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "O026 Competition Partner",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "O039 Last Pick",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "O042 Mind Reading",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "O059 Borrow Talent",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G008 Borrowed Laugh",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G017 Mystery Pen Pal",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G041 One Question",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G070 The Magic Umbrella",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G088 The Unexpected Invitation",
+      "similarity": 0.5
+    },
+    {
+      "a": "O024 New Person",
+      "b": "G100 The Secret Ballot",
+      "similarity": 0.5
+    },
+    {
+      "a": "O036 Game Night Rule",
+      "b": "G030 The Surprise Guest",
+      "similarity": 0.5
+    },
+    {
+      "a": "O037 Honest Haircut",
+      "b": "G011 The Honest Review",
+      "similarity": 0.5
+    },
+    {
+      "a": "O042 Mind Reading",
+      "b": "G048 The Tiny Stage",
+      "similarity": 0.5
+    },
+    {
+      "a": "O045 Magic Skill",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O046 Future Letter",
+      "b": "G017 Mystery Pen Pal",
+      "similarity": 0.5
+    },
+    {
+      "a": "O048 Understand Anything",
+      "b": "O068 Snow Day",
+      "similarity": 0.5
+    },
+    {
+      "a": "O052 Weather Control",
+      "b": "O056 Dream Night",
+      "similarity": 0.5
+    },
+    {
+      "a": "O052 Weather Control",
+      "b": "G070 The Magic Umbrella",
+      "similarity": 0.5
+    }
+  ],
+  "twist_flags": [
+    {
+      "id": "O006",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must ride it three times."
+    },
+    {
+      "id": "O008",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must eat it daily for a month."
+    },
+    {
+      "id": "O009",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "Everyone at home must watch with you."
+    },
+    {
+      "id": "O010",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must make it yourself with no recipe."
+    },
+    {
+      "id": "O011",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must keep the driver entertained."
+    },
+    {
+      "id": "O012",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You can keep every prize you win, but you must beat your own high score before leaving."
+    },
+    {
+      "id": "O013",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must perform with every song."
+    },
+    {
+      "id": "O015",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must invite 20 people."
+    },
+    {
+      "id": "O016",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You learn the other person packed your favorite food, but you must decide before seeing which option it is."
+    },
+    {
+      "id": "O017",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You have only ten minutes."
+    },
+    {
+      "id": "O021",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You discover you must give the entire prize to someone else, but you get to choose who."
+    },
+    {
+      "id": "O026",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must swap roles without speaking."
+    },
+    {
+      "id": "O036",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must follow it for a year."
+    },
+    {
+      "id": "O041",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must get home normally."
+    },
+    {
+      "id": "O046",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must read it aloud to everyone."
+    },
+    {
+      "id": "O048",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must translate for strangers weekly."
+    },
+    {
+      "id": "O050",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "It stays open only 30 minutes."
+    },
+    {
+      "id": "O051",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "They ask one question you must answer honestly."
+    },
+    {
+      "id": "O055",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must share it forever with one person."
+    },
+    {
+      "id": "O057",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The shortcut works only when you're completely alone."
+    },
+    {
+      "id": "O058",
+      "flag": "publicity_escalation_review",
+      "twist": "Everyone knows you're using it."
+    },
+    {
+      "id": "O071",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must coach beginners every weekend."
+    },
+    {
+      "id": "O076",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The question is worth double points, but using any lifeline means you must split the prize with a stranger."
+    },
+    {
+      "id": "O080",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The second ticket must go to someone who doesn't like your chosen event."
+    },
+    {
+      "id": "O082",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "Only one person gets the prize."
+    },
+    {
+      "id": "O083",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "Everything must fit in a backpack."
+    },
+    {
+      "id": "O084",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must give them a gift immediately too."
+    },
+    {
+      "id": "O086",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You discover the person you choose must decide whether to keep the gift or pass it on to someone else."
+    },
+    {
+      "id": "O090",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "Use it every week."
+    },
+    {
+      "id": "O096",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "It lasts only one month starting tomorrow."
+    },
+    {
+      "id": "O097",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must organize every time."
+    },
+    {
+      "id": "O100",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "They have only 20 minutes."
+    },
+    {
+      "id": "G012",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must perform a tiny part of the show."
+    },
+    {
+      "id": "G015",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The winner must accept the same compliment publicly."
+    },
+    {
+      "id": "G020",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must teach it to a stranger tomorrow."
+    },
+    {
+      "id": "G022",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must give a guided tour to visitors."
+    },
+    {
+      "id": "G028",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must teach them your original chore first."
+    },
+    {
+      "id": "G031",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must wear them on public transportation."
+    },
+    {
+      "id": "G033",
+      "flag": "publicity_escalation_review",
+      "twist": "Everyone else remembers both versions."
+    },
+    {
+      "id": "G043",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "You must demonstrate it with a stranger."
+    },
+    {
+      "id": "G049",
+      "flag": "publicity_escalation_review",
+      "twist": "Everyone hears the performance, even though they can't see you."
+    },
+    {
+      "id": "G083",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The loser must compliment the winner in public."
+    },
+    {
+      "id": "G088",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The guest must give a short review afterward."
+    },
+    {
+      "id": "G090",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "The winner must share it with the runner-up."
+    },
+    {
+      "id": "G100",
+      "flag": "constraint_or_option_elimination_review",
+      "twist": "Everyone must explain their vote afterward."
+    }
+  ],
+  "notes": [
+    "Lexical similarity misses semantic duplicates and can falsely flag unrelated cards.",
+    "Publicity and constraints can be excellent twists; these flags do not imply rejection.",
+    "No scoring or playtest performance inferred."
+  ]
+}
