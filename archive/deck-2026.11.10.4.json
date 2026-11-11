@@ -1,0 +1,1105 @@
+{
+  "version": "2026.11.10.4",
+  "cards": [
+    {
+      "id": "O001",
+      "title": "Last Slice",
+      "scenario": "There's one slice of pizza left and three people want it. What do you do?",
+      "choices": [
+        "Claim it first",
+        "Offer it to someone else",
+        "Suggest splitting it"
+      ],
+      "twist": "You learn that whoever eats it has to clean up the entire kitchen."
+    },
+    {
+      "id": "O002",
+      "title": "Movie Night",
+      "scenario": "You pick tonight's movie.",
+      "choices": [
+        "Comedy",
+        "Adventure",
+        "Mystery"
+      ],
+      "twist": "You win $20 if everyone watches to the credits."
+    },
+    {
+      "id": "O003",
+      "title": "Snack Supply",
+      "scenario": "You can have one snack delivered free every day for a year. Which do you choose?",
+      "choices": [
+        "Chips",
+        "Chocolate",
+        "Fresh baked treats"
+      ],
+      "twist": "The delivery always arrives right before bedtime, and you can't save it for later."
+    },
+    {
+      "id": "O004",
+      "title": "Perfect Seat",
+      "scenario": "Where do you sit at the movies?",
+      "choices": [
+        "Middle",
+        "Back",
+        "Front"
+      ],
+      "twist": "Your best friend refuses that section."
+    },
+    {
+      "id": "O005",
+      "title": "Food Forever",
+      "scenario": "Give up one forever.",
+      "choices": [
+        "Ice cream",
+        "Fries",
+        "Pizza"
+      ],
+      "twist": "The other two become free for life."
+    },
+    {
+      "id": "O006",
+      "title": "Theme Park",
+      "scenario": "Skip the line for one attraction.",
+      "choices": [
+        "Roller coaster",
+        "Water ride",
+        "Indoor ride"
+      ],
+      "twist": "You must ride it three times."
+    },
+    {
+      "id": "O007",
+      "title": "Friends Over",
+      "scenario": "You're hosting friends for the evening. What's the plan?",
+      "choices": [
+        "Movie marathon",
+        "Games and challenges",
+        "Food and conversation"
+      ],
+      "twist": "One guest brings along someone none of you know, and you're responsible for making them feel included."
+    },
+    {
+      "id": "O008",
+      "title": "Perfect Breakfast",
+      "scenario": "Choose a breakfast prepared perfectly.",
+      "choices": [
+        "Pancakes",
+        "Breakfast sandwich",
+        "Sweet pastry"
+      ],
+      "twist": "You must eat it daily for a month."
+    },
+    {
+      "id": "O009",
+      "title": "TV Control",
+      "scenario": "You control the television all weekend.",
+      "choices": [
+        "Movies",
+        "Sports",
+        "Gaming videos"
+      ],
+      "twist": "Everyone at home must watch with you."
+    },
+    {
+      "id": "O010",
+      "title": "Birthday Dessert",
+      "scenario": "Pick your birthday dessert.",
+      "choices": [
+        "Cake",
+        "Ice cream",
+        "Cookies"
+      ],
+      "twist": "You must make it yourself with no recipe."
+    },
+    {
+      "id": "O011",
+      "title": "Long Drive",
+      "scenario": "Six hours in a car. How do you pass the time?",
+      "choices": [
+        "Music",
+        "Conversation and games",
+        "Sleep"
+      ],
+      "twist": "You must keep the driver entertained."
+    },
+    {
+      "id": "O012",
+      "title": "Arcade Pass",
+      "scenario": "You get unlimited plays on one arcade machine for an afternoon. Which do you choose?",
+      "choices": [
+        "Racing",
+        "Claw machines",
+        "Ticket-winning games"
+      ],
+      "twist": "You can keep every prize you win, but you must beat your own high score before leaving."
+    },
+    {
+      "id": "O013",
+      "title": "Party Playlist",
+      "scenario": "You control the party music.",
+      "choices": [
+        "Popular classics",
+        "Your favorites",
+        "Dance songs"
+      ],
+      "twist": "You must perform with every song."
+    },
+    {
+      "id": "O014",
+      "title": "Mystery Package",
+      "scenario": "A surprise package arrives for you. What would you most like to find inside?",
+      "choices": [
+        "Something you've wanted",
+        "Tickets to an event",
+        "A thoughtful handmade gift"
+      ],
+      "twist": "You can keep it only if you correctly guess who sent it before opening the card."
+    },
+    {
+      "id": "O015",
+      "title": "Big Screen",
+      "scenario": "You get a giant screen for an evening.",
+      "choices": [
+        "Movie",
+        "Video games",
+        "Live competition"
+      ],
+      "twist": "You must invite 20 people."
+    },
+    {
+      "id": "O016",
+      "title": "Lunch Trade",
+      "scenario": "Someone offers to swap their lunch for yours. What would make you agree?",
+      "choices": [
+        "A homemade favorite",
+        "Food from a restaurant",
+        "An amazing dessert"
+      ],
+      "twist": "You learn the other person packed your favorite food, but you must decide before seeing which option it is."
+    },
+    {
+      "id": "O017",
+      "title": "Water Park",
+      "scenario": "Have one attraction to yourself.",
+      "choices": [
+        "Wave pool",
+        "Lazy river",
+        "Giant slide"
+      ],
+      "twist": "You have only ten minutes."
+    },
+    {
+      "id": "O018",
+      "title": "Weekend Choice",
+      "scenario": "Pick your ideal weekend.",
+      "choices": [
+        "Relax at home",
+        "Explore somewhere",
+        "Hang with a group"
+      ],
+      "twist": "You cannot spend any money."
+    },
+    {
+      "id": "O019",
+      "title": "Prize Wheel",
+      "scenario": "A prize wheel lets you choose one reward. What do you pick?",
+      "choices": [
+        "A gaming setup",
+        "A weekend getaway",
+        "Your favorite food free for a year"
+      ],
+      "twist": "You may keep the prize, but the person sitting to your left chooses who shares it with you."
+    },
+    {
+      "id": "O020",
+      "title": "Dinner Vote",
+      "scenario": "Your group asks you to choose dinner. What do you pick?",
+      "choices": [
+        "Pizza",
+        "Burgers",
+        "Tacos"
+      ],
+      "twist": "The restaurant you choose will be the only place your group can eat together for the next month."
+    },
+    {
+      "id": "O021",
+      "title": "The Mystery Envelope",
+      "scenario": "Three sealed envelopes contain a surprise. Which clue do you trust?",
+      "choices": [
+        "Something you can keep",
+        "Something you can experience",
+        "Something you can share"
+      ],
+      "twist": "You discover you must give the entire prize to someone else, but you get to choose who."
+    },
+    {
+      "id": "O022",
+      "title": "Secret Keeper",
+      "scenario": "A friend shares a harmless embarrassing secret.",
+      "choices": [
+        "Keep it private",
+        "Tease privately",
+        "Share one of yours"
+      ],
+      "twist": "They tell everyone tomorrow anyway."
+    },
+    {
+      "id": "O023",
+      "title": "One Invitation",
+      "scenario": "Pick one event.",
+      "choices": [
+        "Friend's celebration",
+        "Favorite musician",
+        "Championship game"
+      ],
+      "twist": "Your friend says your presence matters most."
+    },
+    {
+      "id": "O024",
+      "title": "New Person",
+      "scenario": "Someone new joins your group.",
+      "choices": [
+        "Start talking",
+        "Ask questions",
+        "Invite them to play"
+      ],
+      "twist": "They're extremely shy."
+    },
+    {
+      "id": "O025",
+      "title": "Harmless Prank",
+      "scenario": "Friends plan a harmless prank. Your role?",
+      "choices": [
+        "Plan",
+        "Carry out",
+        "Watch"
+      ],
+      "twist": "The target has had a terrible day."
+    },
+    {
+      "id": "O026",
+      "title": "Competition Partner",
+      "scenario": "Pick a partner for a two-person contest.",
+      "choices": [
+        "Best friend",
+        "Competitive person",
+        "Calm person"
+      ],
+      "twist": "You must swap roles without speaking."
+    },
+    {
+      "id": "O027",
+      "title": "Group Chat",
+      "scenario": "Nobody agrees on an outing. You...",
+      "choices": [
+        "Make a plan",
+        "Offer choices",
+        "Wait"
+      ],
+      "twist": "The outing is tomorrow and nobody replied."
+    },
+    {
+      "id": "O028",
+      "title": "Making Up",
+      "scenario": "You accidentally upset a friend. How apologize?",
+      "choices": [
+        "Face-to-face",
+        "Message",
+        "Kind gesture"
+      ],
+      "twist": "They leave for a week in five minutes."
+    },
+    {
+      "id": "O029",
+      "title": "Unpopular Opinion",
+      "scenario": "Everyone disagrees with your harmless opinion.",
+      "choices": [
+        "Defend it",
+        "Laugh it off",
+        "Convince one person"
+      ],
+      "twist": "Someone secretly agrees."
+    },
+    {
+      "id": "O030",
+      "title": "Surprise Party",
+      "scenario": "Pick a party-planning job.",
+      "choices": [
+        "Keep secret",
+        "Decorate",
+        "Invite everyone"
+      ],
+      "twist": "The guest of honor hates surprises."
+    },
+    {
+      "id": "O031",
+      "title": "Lost Wallet",
+      "scenario": "You find a wallet. First move?",
+      "choices": [
+        "Check ID",
+        "Give to staff",
+        "Ask around"
+      ],
+      "twist": "You spot the owner leaving."
+    },
+    {
+      "id": "O032",
+      "title": "Unexpected Compliment",
+      "scenario": "Someone compliments you publicly.",
+      "choices": [
+        "Say thanks",
+        "Make a joke",
+        "Compliment back"
+      ],
+      "twist": "They repeat it through a microphone."
+    },
+    {
+      "id": "O033",
+      "title": "The Unexpected Day Off",
+      "scenario": "You wake up to an entire surprise day off. What's your first move?",
+      "choices": [
+        "Go somewhere you've wanted to visit",
+        "Invite friends to do something",
+        "Stay home and enjoy the freedom"
+      ],
+      "twist": "You get a message saying everyone you know also has the day off."
+    },
+    {
+      "id": "O034",
+      "title": "Big Favor",
+      "scenario": "A friend asks for help on your free afternoon.",
+      "choices": [
+        "Help all day",
+        "Offer an hour",
+        "Find another solution"
+      ],
+      "twist": "They secretly helped you last week."
+    },
+    {
+      "id": "O035",
+      "title": "Funny Photo",
+      "scenario": "A friend posts a silly photo of you.",
+      "choices": [
+        "Laugh",
+        "Ask removal",
+        "Post one of them"
+      ],
+      "twist": "Strangers start sharing it."
+    },
+    {
+      "id": "O036",
+      "title": "Game Night Rule",
+      "scenario": "Pick a permanent game-night rule.",
+      "choices": [
+        "Winner picks next",
+        "Last place gets help",
+        "Always try something new"
+      ],
+      "twist": "You must follow it for a year."
+    },
+    {
+      "id": "O037",
+      "title": "Honest Haircut",
+      "scenario": "A friend asks if you like their haircut. You don't.",
+      "choices": [
+        "Tell gently",
+        "Find positive",
+        "Avoid answering"
+      ],
+      "twist": "They're getting it again tomorrow."
+    },
+    {
+      "id": "O038",
+      "title": "Old Friend",
+      "scenario": "A friend you haven't seen in years arrives.",
+      "choices": [
+        "Invite in",
+        "Go out",
+        "Plan later"
+      ],
+      "twist": "They leave town in an hour."
+    },
+    {
+      "id": "O039",
+      "title": "Last Pick",
+      "scenario": "One person is left when choosing teams.",
+      "choices": [
+        "Include kindly",
+        "Balance teams",
+        "Stay with friends"
+      ],
+      "twist": "They're secretly the best player."
+    },
+    {
+      "id": "O040",
+      "title": "Invisible Day",
+      "scenario": "You can be invisible for a day.",
+      "choices": [
+        "Explore unnoticed",
+        "Harmless tricks",
+        "Enjoy privacy"
+      ],
+      "twist": "You can't turn it off until midnight."
+    },
+    {
+      "id": "O041",
+      "title": "Teleport Once",
+      "scenario": "Teleport anywhere once today.",
+      "choices": [
+        "Visit someone",
+        "Sightsee",
+        "Skip a journey"
+      ],
+      "twist": "You must get home normally."
+    },
+    {
+      "id": "O042",
+      "title": "Mind Reading",
+      "scenario": "Read one person's thoughts for ten minutes.",
+      "choices": [
+        "Best friend",
+        "Someone admired",
+        "Stranger"
+      ],
+      "twist": "They hear your thoughts too."
+    },
+    {
+      "id": "O043",
+      "title": "Time Window",
+      "scenario": "Visit one moment in time.",
+      "choices": [
+        "Your childhood",
+        "Historical event",
+        "50 years ahead"
+      ],
+      "twist": "You can watch but not interact."
+    },
+    {
+      "id": "O044",
+      "title": "Pause Time",
+      "scenario": "Pause time for one hour.",
+      "choices": [
+        "Rest",
+        "Finish a task",
+        "Explore empty city"
+      ],
+      "twist": "You lose an hour of sleep tonight."
+    },
+    {
+      "id": "O045",
+      "title": "Magic Skill",
+      "scenario": "Choose a permanent ability.",
+      "choices": [
+        "Detect lies",
+        "Find lost things",
+        "Never get lost"
+      ],
+      "twist": "People can ask you to use it anytime."
+    },
+    {
+      "id": "O046",
+      "title": "Future Letter",
+      "scenario": "Your future self sends a letter.",
+      "choices": [
+        "Warning",
+        "Advice",
+        "Good news"
+      ],
+      "twist": "You must read it aloud to everyone."
+    },
+    {
+      "id": "O047",
+      "title": "Your Double",
+      "scenario": "A duplicate of you exists for a day.",
+      "choices": [
+        "Do chores",
+        "Go adventuring",
+        "Visit loved ones"
+      ],
+      "twist": "You remember everything they did."
+    },
+    {
+      "id": "O048",
+      "title": "Understand Anything",
+      "scenario": "Choose a communication power.",
+      "choices": [
+        "All languages",
+        "Animals",
+        "Secret codes"
+      ],
+      "twist": "You must translate for strangers weekly."
+    },
+    {
+      "id": "O049",
+      "title": "Memory Replay",
+      "scenario": "Relive one memory perfectly.",
+      "choices": [
+        "Funniest day",
+        "Proudest moment",
+        "Day with someone missed"
+      ],
+      "twist": "Everyone involved watches too."
+    },
+    {
+      "id": "O050",
+      "title": "Magic Door",
+      "scenario": "Your bedroom door can open to one place.",
+      "choices": [
+        "Beach",
+        "City",
+        "Mountains"
+      ],
+      "twist": "It stays open only 30 minutes."
+    },
+    {
+      "id": "O051",
+      "title": "Future Meeting",
+      "scenario": "Meet future you. Ask about...",
+      "choices": [
+        "Happiness",
+        "Big decisions",
+        "Talents"
+      ],
+      "twist": "They ask one question you must answer honestly."
+    },
+    {
+      "id": "O052",
+      "title": "Weather Control",
+      "scenario": "Control one day's weather.",
+      "choices": [
+        "Sun",
+        "Snow",
+        "Thunderstorm"
+      ],
+      "twist": "Your whole town gets it."
+    },
+    {
+      "id": "O053",
+      "title": "Instant Expert",
+      "scenario": "Master one skill overnight.",
+      "choices": [
+        "Sports",
+        "Music",
+        "Science"
+      ],
+      "twist": "You compete against a professional tomorrow."
+    },
+    {
+      "id": "O054",
+      "title": "Do Over",
+      "scenario": "Redo one moment from last year.",
+      "choices": [
+        "Embarrassing mistake",
+        "Missed chance",
+        "Argument"
+      ],
+      "twist": "Everyone remembers the first version."
+    },
+    {
+      "id": "O055",
+      "title": "Secret Hideout",
+      "scenario": "Pick a private hideout.",
+      "choices": [
+        "Treehouse",
+        "Hidden room",
+        "Lakeside cabin"
+      ],
+      "twist": "You must share it forever with one person."
+    },
+    {
+      "id": "O056",
+      "title": "Dream Night",
+      "scenario": "Control one vivid dream.",
+      "choices": [
+        "Adventure",
+        "Relaxation",
+        "Reunion"
+      ],
+      "twist": "You remember it like real life."
+    },
+    {
+      "id": "O057",
+      "title": "Instant Task",
+      "scenario": "One everyday task can be done instantly forever. Which would you pick?",
+      "choices": [
+        "Cleaning up",
+        "Getting ready to leave",
+        "Traveling to places you go often"
+      ],
+      "twist": "The shortcut works only when you're completely alone."
+    },
+    {
+      "id": "O058",
+      "title": "Lucky Coin",
+      "scenario": "A coin guarantees success once. Use it for...",
+      "choices": [
+        "Competition",
+        "Hard conversation",
+        "Personal goal"
+      ],
+      "twist": "Everyone knows you're using it."
+    },
+    {
+      "id": "O059",
+      "title": "Borrow Talent",
+      "scenario": "Borrow one person's talent for a day.",
+      "choices": [
+        "Athlete",
+        "Musician",
+        "Comedian"
+      ],
+      "twist": "They borrow one of your skills too."
+    },
+    {
+      "id": "O060",
+      "title": "Three Doors",
+      "scenario": "Choose a free experience.",
+      "choices": [
+        "Front-row event",
+        "Private tour",
+        "Day with admired person"
+      ],
+      "twist": "Your companion chooses the date."
+    },
+    {
+      "id": "O061",
+      "title": "Dream Vacation",
+      "scenario": "Choose a free five-day trip.",
+      "choices": [
+        "Beach",
+        "City",
+        "Nature cabin"
+      ],
+      "twist": "Leave tomorrow with one backpack."
+    },
+    {
+      "id": "O062",
+      "title": "Overnight Adventure",
+      "scenario": "Pick somewhere to sleep.",
+      "choices": [
+        "Under stars",
+        "Fancy hotel",
+        "Sleeper train"
+      ],
+      "twist": "Your roommate is a surprise."
+    },
+    {
+      "id": "O063",
+      "title": "Big Race",
+      "scenario": "Enter one contest.",
+      "choices": [
+        "Go-karts",
+        "Obstacle course",
+        "Scavenger hunt"
+      ],
+      "twist": "Your partner has never tried it."
+    },
+    {
+      "id": "O064",
+      "title": "Hidden Trail",
+      "scenario": "What do you hope is at the end of a trail?",
+      "choices": [
+        "Great view",
+        "Swimming spot",
+        "Historic ruins"
+      ],
+      "twist": "You may explore only at night with a guide."
+    },
+    {
+      "id": "O065",
+      "title": "VIP Pass",
+      "scenario": "Choose a VIP experience.",
+      "choices": [
+        "Theme park",
+        "Stadium event",
+        "Movie studio"
+      ],
+      "twist": "Bring someone who's never been."
+    },
+    {
+      "id": "O066",
+      "title": "Mystery Trip",
+      "scenario": "What detail matters most before a surprise trip?",
+      "choices": [
+        "Destination",
+        "Companions",
+        "Activities"
+      ],
+      "twist": "The planner refuses to reveal it."
+    },
+    {
+      "id": "O067",
+      "title": "Island Week",
+      "scenario": "Pick an island vacation.",
+      "choices": [
+        "Beaches",
+        "Hikes and wildlife",
+        "Shops and activities"
+      ],
+      "twist": "No internet or phone service."
+    },
+    {
+      "id": "O068",
+      "title": "Snow Day",
+      "scenario": "Unexpected snow day. Choose.",
+      "choices": [
+        "Play outside",
+        "Stay cozy",
+        "Visit nearby friends"
+      ],
+      "twist": "Snow melts by noon."
+    },
+    {
+      "id": "O069",
+      "title": "Guided Challenge",
+      "scenario": "Pick an outdoor challenge.",
+      "choices": [
+        "Mountain climb",
+        "Cave exploration",
+        "Kayaking"
+      ],
+      "twist": "Your closest friend is scared but wants to join."
+    },
+    {
+      "id": "O070",
+      "title": "Live Show",
+      "scenario": "Pick a live performance.",
+      "choices": [
+        "Favorite band",
+        "Comedian",
+        "Stage show"
+      ],
+      "twist": "You attend alone in the front row."
+    },
+    {
+      "id": "O071",
+      "title": "Sports Talent",
+      "scenario": "Be great at one sport for a year.",
+      "choices": [
+        "Basketball",
+        "Soccer",
+        "Swimming"
+      ],
+      "twist": "You must coach beginners every weekend."
+    },
+    {
+      "id": "O072",
+      "title": "The Secret Ingredient",
+      "scenario": "You're in a friendly cooking contest. Which dish would you attempt?",
+      "choices": [
+        "A perfect pizza",
+        "An amazing dessert",
+        "An unforgettable sandwich"
+      ],
+      "twist": "Five minutes before judging, you learn the judges will taste it blindfolded and you cannot explain what you made."
+    },
+    {
+      "id": "O073",
+      "title": "World Record",
+      "scenario": "Break one world record.",
+      "choices": [
+        "Speed",
+        "Endurance",
+        "Unusual skill"
+      ],
+      "twist": "Someone challenges it tomorrow."
+    },
+    {
+      "id": "O074",
+      "title": "Final Point",
+      "scenario": "You're one point from winning.",
+      "choices": [
+        "Play safe",
+        "Take a risk",
+        "Outsmart opponent"
+      ],
+      "twist": "A younger player is about to win for the first time."
+    },
+    {
+      "id": "O075",
+      "title": "Talent Show",
+      "scenario": "Enter a talent contest.",
+      "choices": [
+        "Comedy",
+        "Music",
+        "Magic"
+      ],
+      "twist": "Perform with someone you barely know."
+    },
+    {
+      "id": "O076",
+      "title": "Trivia Lifeline",
+      "scenario": "You're on a quiz show and can choose one lifeline for the final question.",
+      "choices": [
+        "Ask someone you trust",
+        "Remove one wrong answer",
+        "Get an extra minute to think"
+      ],
+      "twist": "The question is worth double points, but using any lifeline means you must split the prize with a stranger."
+    },
+    {
+      "id": "O077",
+      "title": "Big Wager",
+      "scenario": "Risk all your points on a challenge.",
+      "choices": [
+        "Puzzle",
+        "Memory",
+        "Quick reflexes"
+      ],
+      "twist": "Opponent chooses difficulty."
+    },
+    {
+      "id": "O078",
+      "title": "Team Look",
+      "scenario": "Pick a team uniform.",
+      "choices": [
+        "Bright",
+        "Classic",
+        "Funny"
+      ],
+      "twist": "Wear it everywhere all weekend."
+    },
+    {
+      "id": "O079",
+      "title": "Comeback Plan",
+      "scenario": "Your team is losing badly.",
+      "choices": [
+        "Encourage",
+        "Risky strategy",
+        "Aim for one small win"
+      ],
+      "twist": "Opponents offer you one rule change."
+    },
+    {
+      "id": "O080",
+      "title": "The Best Seat in the House",
+      "scenario": "You win two front-row tickets. What would you rather see?",
+      "choices": [
+        "A concert",
+        "A major sporting event",
+        "A live comedy show"
+      ],
+      "twist": "The second ticket must go to someone who doesn't like your chosen event."
+    },
+    {
+      "id": "O081",
+      "title": "Award Choice",
+      "scenario": "Pick an award.",
+      "choices": [
+        "Best skill",
+        "Kindest",
+        "Most creative"
+      ],
+      "twist": "Give a speech proving you deserve it."
+    },
+    {
+      "id": "O082",
+      "title": "Impossible Puzzle",
+      "scenario": "One hour to solve a puzzle.",
+      "choices": [
+        "Work alone",
+        "Ask clever friend",
+        "Gather group"
+      ],
+      "twist": "Only one person gets the prize."
+    },
+    {
+      "id": "O083",
+      "title": "Shopping Spree",
+      "scenario": "Five free minutes in a store.",
+      "choices": [
+        "Games",
+        "Clothes",
+        "Electronics"
+      ],
+      "twist": "Everything must fit in a backpack."
+    },
+    {
+      "id": "O084",
+      "title": "Mystery Gift",
+      "scenario": "Who picks your surprise gift?",
+      "choices": [
+        "Best friend",
+        "Family",
+        "Someone who barely knows you"
+      ],
+      "twist": "You must give them a gift immediately too."
+    },
+    {
+      "id": "O085",
+      "title": "Treasure Chest",
+      "scenario": "What do you hope to find?",
+      "choices": [
+        "Valuable object",
+        "Secret map",
+        "Object with a story"
+      ],
+      "twist": "Give it away after a week."
+    },
+    {
+      "id": "O086",
+      "title": "Hundred Dollar Kindness",
+      "scenario": "You have $100 to make someone's day. Who gets the surprise?",
+      "choices": [
+        "A friend",
+        "A family member",
+        "A stranger"
+      ],
+      "twist": "You discover the person you choose must decide whether to keep the gift or pass it on to someone else."
+    },
+    {
+      "id": "O087",
+      "title": "Free Store",
+      "scenario": "Choose a store for ten free minutes.",
+      "choices": [
+        "Bookstore",
+        "Sports store",
+        "Games store"
+      ],
+      "twist": "Keep only what you carry without a bag."
+    },
+    {
+      "id": "O088",
+      "title": "Prize Giveaway",
+      "scenario": "Pick a prize.",
+      "choices": [
+        "New bike",
+        "Game console",
+        "Tickets for four"
+      ],
+      "twist": "Give it to someone else in the room."
+    },
+    {
+      "id": "O089",
+      "title": "Borrowed Favorite",
+      "scenario": "Borrow something from a friend for a month.",
+      "choices": [
+        "Gadget",
+        "Sports gear",
+        "Favorite game"
+      ],
+      "twist": "They borrow one of your things too."
+    },
+    {
+      "id": "O090",
+      "title": "Free Year",
+      "scenario": "Get one thing free for a year.",
+      "choices": [
+        "Movies",
+        "Restaurant meals",
+        "Books and games"
+      ],
+      "twist": "Use it every week."
+    },
+    {
+      "id": "O091",
+      "title": "Help a Cause",
+      "scenario": "Donate a big prize to one cause.",
+      "choices": [
+        "Animals",
+        "Hungry people",
+        "Playgrounds"
+      ],
+      "twist": "Volunteer there every month."
+    },
+    {
+      "id": "O092",
+      "title": "Giant Box",
+      "scenario": "Pick a mystery box label.",
+      "choices": [
+        "Build it",
+        "Play it",
+        "Share it"
+      ],
+      "twist": "Whatever is inside needs two people."
+    },
+    {
+      "id": "O093",
+      "title": "Birthday Budget",
+      "scenario": "Spend $200 on your birthday.",
+      "choices": [
+        "Gift",
+        "Party",
+        "Special outing"
+      ],
+      "twist": "All friends are busy that day."
+    },
+    {
+      "id": "O094",
+      "title": "Save One Thing",
+      "scenario": "Save one category of belongings from a harmless flood.",
+      "choices": [
+        "Photos",
+        "Hobby items",
+        "Devices"
+      ],
+      "twist": "Everything else can be replaced free."
+    },
+    {
+      "id": "O095",
+      "title": "Three Invitations",
+      "scenario": "Who gets your one free day?",
+      "choices": [
+        "Best friend",
+        "New group",
+        "Relative rarely seen"
+      ],
+      "twist": "One planned a special surprise."
+    },
+    {
+      "id": "O096",
+      "title": "Daily Upgrade",
+      "scenario": "Choose one life upgrade.",
+      "choices": [
+        "More free time",
+        "More learning",
+        "More time with loved ones"
+      ],
+      "twist": "It lasts only one month starting tomorrow."
+    },
+    {
+      "id": "O097",
+      "title": "New Tradition",
+      "scenario": "Pick a new family tradition.",
+      "choices": [
+        "Game night",
+        "Monthly adventure",
+        "Cooking night"
+      ],
+      "twist": "You must organize every time."
+    },
+    {
+      "id": "O098",
+      "title": "Public Mistake",
+      "scenario": "You make a small embarrassing mistake in public.",
+      "choices": [
+        "Laugh",
+        "Ignore",
+        "Explain"
+      ],
+      "twist": "Someone asks to post the video online."
+    },
+    {
+      "id": "O099",
+      "title": "Someone Alone",
+      "scenario": "Someone sits alone at an event.",
+      "choices": [
+        "Say hello",
+        "Invite them over",
+        "Give space"
+      ],
+      "twist": "Their friend never showed up."
+    },
+    {
+      "id": "O100",
+      "title": "Quick Reunion",
+      "scenario": "An old friend appears.",
+      "choices": [
+        "Get food",
+        "Do something fun",
+        "Sit and talk"
+      ],
+      "twist": "They have only 20 minutes."
+    }
+  ]
+}
