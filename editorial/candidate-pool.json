@@ -2113,6 +2113,656 @@
       "twist": "The losing plan becomes tomorrow's activity.",
       "status": "draft_self_review_required",
       "author": "ChatGPT"
+    },
+    {
+      "id": "G051",
+      "title": "Wrong Winner",
+      "scenario": "You accidentally receive someone else's contest prize.",
+      "choices": [
+        "Return it quietly",
+        "Announce the mistake",
+        "Ask the organizer"
+      ],
+      "twist": "The rightful winner is your biggest rival.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G052",
+      "title": "The Unwanted Encore",
+      "scenario": "A crowd demands one more performance.",
+      "choices": [
+        "Repeat your best trick",
+        "Try something new",
+        "Invite a friend"
+      ],
+      "twist": "Your first performance was a complete accident.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G053",
+      "title": "The Fake Birthday",
+      "scenario": "A restaurant brings you a birthday dessert on the wrong day.",
+      "choices": [
+        "Accept it",
+        "Correct them",
+        "Share it"
+      ],
+      "twist": "The entire restaurant starts singing.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G054",
+      "title": "The Mystery Caller",
+      "scenario": "A stranger calls and insists you're their old friend.",
+      "choices": [
+        "Correct them",
+        "Play along briefly",
+        "Ask for clues"
+      ],
+      "twist": "They remember a story that really happened to you.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G055",
+      "title": "Lost and Found",
+      "scenario": "You find an unusual object at a party.",
+      "choices": [
+        "Ask whose it is",
+        "Put it on display",
+        "Give it to the host"
+      ],
+      "twist": "Your name is written underneath.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G056",
+      "title": "The Public Playlist",
+      "scenario": "You can play one song for everyone in town.",
+      "choices": [
+        "Your favorite",
+        "A funny song",
+        "A meaningful song"
+      ],
+      "twist": "The song plays every morning for a week.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G057",
+      "title": "The Accidental Coach",
+      "scenario": "A team mistakes you for their new coach.",
+      "choices": [
+        "Admit the mistake",
+        "Give one pep talk",
+        "Ask to join them"
+      ],
+      "twist": "They're about to play the championship.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G058",
+      "title": "One Strange Favor",
+      "scenario": "A magician owes you one harmless favor.",
+      "choices": [
+        "Make someone laugh",
+        "Surprise a friend",
+        "Fix an embarrassment"
+      ],
+      "twist": "The magician insists on a dramatic public reveal.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G059",
+      "title": "The Spare Key",
+      "scenario": "A friend trusts you with their spare key.",
+      "choices": [
+        "Carry it everywhere",
+        "Hide it safely",
+        "Give it back"
+      ],
+      "twist": "They announce to everyone that you're their most responsible friend.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G060",
+      "title": "The Unusual Pet Show",
+      "scenario": "You enter a pet talent contest.",
+      "choices": [
+        "Teach a trick",
+        "Dress your pet up",
+        "Tell a funny story"
+      ],
+      "twist": "Your pet refuses to cooperate onstage.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G061",
+      "title": "The Secret Ingredient Swap",
+      "scenario": "You can swap one ingredient in a cooking contest.",
+      "choices": [
+        "Make it sweeter",
+        "Make it spicier",
+        "Make it surprising"
+      ],
+      "twist": "Your opponent gets to taste it before judging.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G062",
+      "title": "The Surprise Seatmate",
+      "scenario": "Choose a seat for a long bus ride.",
+      "choices": [
+        "Beside a friend",
+        "Beside someone funny",
+        "Sit alone"
+      ],
+      "twist": "Your seatmate chooses the music for the whole bus.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G063",
+      "title": "The Last Balloon",
+      "scenario": "One balloon remains at a celebration.",
+      "choices": [
+        "Keep it",
+        "Give it to a child",
+        "Turn it into a joke"
+      ],
+      "twist": "It has a secret message inside.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G064",
+      "title": "The Misheard Promise",
+      "scenario": "Someone thinks you promised to help tomorrow.",
+      "choices": [
+        "Correct them",
+        "Help anyway",
+        "Offer another day"
+      ],
+      "twist": "They already told everyone you volunteered.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G065",
+      "title": "The Unexpected Fan",
+      "scenario": "A stranger says they're your biggest fan.",
+      "choices": [
+        "Ask why",
+        "Pose for a picture",
+        "Play along"
+      ],
+      "twist": "They've confused you with someone from your school or work.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G066",
+      "title": "The Shared Jackpot",
+      "scenario": "You and a friend win a small prize together.",
+      "choices": [
+        "Split equally",
+        "Let them choose first",
+        "Trade for something else"
+      ],
+      "twist": "They insist you did all the work.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G067",
+      "title": "The Talking Portrait",
+      "scenario": "A portrait of you can speak.",
+      "choices": [
+        "Make it tell jokes",
+        "Make it give advice",
+        "Keep it silent"
+      ],
+      "twist": "It loudly disagrees with your opinions.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G068",
+      "title": "The Very Small Crown",
+      "scenario": "You become ruler of a tiny kingdom for a day.",
+      "choices": [
+        "Host a festival",
+        "Make a silly law",
+        "Explore the kingdom"
+      ],
+      "twist": "Your subjects can vote you out by lunchtime.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G069",
+      "title": "The Secret Entrance",
+      "scenario": "You discover a hidden entrance to a local attraction.",
+      "choices": [
+        "Go first",
+        "Bring friends",
+        "Tell the staff"
+      ],
+      "twist": "The entrance opens directly onto a stage.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G070",
+      "title": "The Magic Umbrella",
+      "scenario": "An umbrella changes the weather above one person.",
+      "choices": [
+        "Stay sunny",
+        "Make snow",
+        "Make rainbows"
+      ],
+      "twist": "The weather follows whoever holds it, even indoors.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G071",
+      "title": "The Unexpected Translator",
+      "scenario": "Only you understand a visitor's unusual language.",
+      "choices": [
+        "Translate literally",
+        "Summarize politely",
+        "Teach everyone phrases"
+      ],
+      "twist": "The visitor keeps making jokes about the host.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G072",
+      "title": "The Robot Substitute",
+      "scenario": "A robot can take your place for one afternoon.",
+      "choices": [
+        "Attend a boring event",
+        "Finish chores",
+        "Meet a friend"
+      ],
+      "twist": "It acts exactly like your most dramatic relative.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G073",
+      "title": "The Miniature Parade",
+      "scenario": "Tiny people invite you to lead their parade.",
+      "choices": [
+        "Ride a float",
+        "Play an instrument",
+        "Carry the flag"
+      ],
+      "twist": "The parade crosses your family's dinner table.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G074",
+      "title": "The Future Photograph",
+      "scenario": "You find a photo of yourself next year.",
+      "choices": [
+        "Study the background",
+        "Show a friend",
+        "Hide it away"
+      ],
+      "twist": "Someone in the photo is standing beside you now.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G075",
+      "title": "The Lost Superpower",
+      "scenario": "You can borrow one power until sunset.",
+      "choices": [
+        "Fly",
+        "Turn invisible",
+        "Talk to animals"
+      ],
+      "twist": "A friend gets to decide when the power activates.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G076",
+      "title": "The Secret Competition",
+      "scenario": "Your friends are quietly competing to impress you.",
+      "choices": [
+        "Pick a winner",
+        "Join the contest",
+        "Pretend not to notice"
+      ],
+      "twist": "The prize is choosing your next adventure.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G077",
+      "title": "The Board Game Betrayal",
+      "scenario": "Your teammate offers a secret deal.",
+      "choices": [
+        "Accept",
+        "Counteroffer",
+        "Tell the group"
+      ],
+      "twist": "They show you a card proving they can win alone.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G078",
+      "title": "The Lucky Mistake",
+      "scenario": "Your accidental move puts you ahead in a game.",
+      "choices": [
+        "Claim it",
+        "Explain what happened",
+        "Offer a redo"
+      ],
+      "twist": "Your opponent calls it brilliant strategy.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G079",
+      "title": "The Championship Cheer",
+      "scenario": "You choose how your team celebrates a win.",
+      "choices": [
+        "Victory dance",
+        "Team chant",
+        "Quiet handshake"
+      ],
+      "twist": "The opposing team is watching from a few feet away.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G080",
+      "title": "The Wrong Instructions",
+      "scenario": "You realize your team misunderstood the challenge.",
+      "choices": [
+        "Stop and explain",
+        "Keep trying",
+        "Ask the referee"
+      ],
+      "twist": "Your incorrect method is somehow working.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G081",
+      "title": "The Unlikely Captain",
+      "scenario": "Your group chooses you to lead.",
+      "choices": [
+        "Make every decision",
+        "Ask everyone to vote",
+        "Delegate to a friend"
+      ],
+      "twist": "The group includes someone who always disagrees with you.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G082",
+      "title": "The Final Clue",
+      "scenario": "You solve the last clue in a group mystery.",
+      "choices": [
+        "Announce it",
+        "Let a friend reveal it",
+        "Wait for confirmation"
+      ],
+      "twist": "Someone else confidently announces a different answer.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G083",
+      "title": "The Friendly Bluff",
+      "scenario": "A friend says they can beat you at anything.",
+      "choices": [
+        "Choose your best game",
+        "Choose their best game",
+        "Invent a new contest"
+      ],
+      "twist": "The loser must compliment the winner in public.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G084",
+      "title": "The One-Word Hint",
+      "scenario": "You can give your team one final hint.",
+      "choices": [
+        "Be direct",
+        "Use an inside joke",
+        "Make a gesture"
+      ],
+      "twist": "The other team hears your hint too.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G085",
+      "title": "The Unfair Advantage",
+      "scenario": "You discover your game controller has a helpful glitch.",
+      "choices": [
+        "Use it",
+        "Switch controllers",
+        "Tell everyone"
+      ],
+      "twist": "Your little sibling is cheering for you.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G086",
+      "title": "The Mystery Donation",
+      "scenario": "Someone anonymously gives your club a generous gift.",
+      "choices": [
+        "Thank them publicly",
+        "Investigate the giver",
+        "Plan a surprise"
+      ],
+      "twist": "The giver asks that nobody find out.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G087",
+      "title": "The Shared Secret",
+      "scenario": "You and a friend know a harmless surprise.",
+      "choices": [
+        "Keep it quiet",
+        "Give tiny hints",
+        "Distract everyone"
+      ],
+      "twist": "Your friend starts dropping obvious clues.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G088",
+      "title": "The Unexpected Invitation",
+      "scenario": "You can invite one person to an exclusive preview.",
+      "choices": [
+        "A close friend",
+        "Someone new",
+        "Someone who loves surprises"
+      ],
+      "twist": "The guest must give a short review afterward.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G089",
+      "title": "The Applause Meter",
+      "scenario": "Your group votes on your next silly performance.",
+      "choices": [
+        "Tell jokes",
+        "Dance",
+        "Perform a trick"
+      ],
+      "twist": "The quietest person in the room gets the deciding vote.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G090",
+      "title": "The Last Slice Auction",
+      "scenario": "Friends jokingly auction the final slice of cake.",
+      "choices": [
+        "Offer a favor",
+        "Tell a joke",
+        "Walk away"
+      ],
+      "twist": "The winner must share it with the runner-up.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G091",
+      "title": "The Famous Drawing",
+      "scenario": "A doodle you made becomes unexpectedly popular.",
+      "choices": [
+        "Sell copies",
+        "Give it away",
+        "Make a sequel"
+      ],
+      "twist": "Your art teacher wants to display the original.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G092",
+      "title": "The Unexpected Host",
+      "scenario": "You're asked to host a gathering at the last minute.",
+      "choices": [
+        "Organize games",
+        "Let guests improvise",
+        "Ask a cohost"
+      ],
+      "twist": "The guests are all better planners than you.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G093",
+      "title": "The Surprise Interview",
+      "scenario": "Someone asks three questions about your best friend.",
+      "choices": [
+        "Be completely honest",
+        "Tell funny stories",
+        "Keep answers short"
+      ],
+      "twist": "Your friend hears the interview live.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G094",
+      "title": "The Name Tag Mix-Up",
+      "scenario": "Your name tag has a ridiculous job title.",
+      "choices": [
+        "Correct it",
+        "Act the part",
+        "Swap with a friend"
+      ],
+      "twist": "Someone asks you for professional advice.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G095",
+      "title": "The Mystery Medal",
+      "scenario": "You're awarded a medal for an unknown achievement.",
+      "choices": [
+        "Ask what for",
+        "Accept proudly",
+        "Give a speech"
+      ],
+      "twist": "The audience believes you saved the day.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G096",
+      "title": "The Accidental Trend",
+      "scenario": "Your silly habit becomes a trend at school or work.",
+      "choices": [
+        "Encourage it",
+        "Stop doing it",
+        "Invent a new one"
+      ],
+      "twist": "Your teacher or boss joins in.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G097",
+      "title": "The Tiny Challenge",
+      "scenario": "You must entertain a bored group for two minutes.",
+      "choices": [
+        "A quick game",
+        "A ridiculous story",
+        "A magic trick"
+      ],
+      "twist": "Someone starts timing you with a giant clock.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G098",
+      "title": "The Friendly Roast",
+      "scenario": "Friends invite you to a playful roast.",
+      "choices": [
+        "Roast yourself",
+        "Roast the host",
+        "Tell a compliment disguised as a joke"
+      ],
+      "twist": "Your target gets the final comeback.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G099",
+      "title": "The Second Chance",
+      "scenario": "You get one chance to redo an awkward introduction.",
+      "choices": [
+        "Be funny",
+        "Be confident",
+        "Be sincere"
+      ],
+      "twist": "The other person remembers your first attempt.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
+    },
+    {
+      "id": "G100",
+      "title": "The Secret Ballot",
+      "scenario": "Your friends anonymously vote for the funniest person.",
+      "choices": [
+        "Vote for yourself",
+        "Vote for a friend",
+        "Write in a surprise name"
+      ],
+      "twist": "Everyone must explain their vote afterward.",
+      "status": "draft_self_review_required",
+      "author": "ChatGPT"
     }
   ],
   "claude_second_round": [
@@ -2719,5 +3369,5 @@
   ],
   "reserves": [],
   "final_selected": [],
-  "next_step": "Independent ChatGPT creation, cross-review, and complete source-text import before publishing"
+  "next_step": "Self-review 100 ChatGPT drafts; import full Claude source; cross-review and select 120"
 }
