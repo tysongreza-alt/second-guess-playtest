@@ -3770,301 +3770,651 @@
       "id": "C101",
       "title": "Deciding Shot",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Teammates urge you to take the winning shot.",
+      "choices": [
+        "Take it",
+        "Pass to the best shooter",
+        "Pass to the youngest player"
+      ],
+      "twist": "You've missed your last three."
     },
     {
       "id": "C102",
       "title": "Loophole",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You spot a rule loophole that guarantees victory.",
+      "choices": [
+        "Use it now",
+        "Tell everyone",
+        "Save it for later"
+      ],
+      "twist": "Your opponent just played generously toward you."
     },
     {
       "id": "C103",
       "title": "Hide-and-Seek",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Perfect hiding spot, and the seeker is closing in.",
+      "choices": [
+        "Stay put",
+        "Switch spots",
+        "Pull a friend in"
+      ],
+      "twist": "A friend nearby is about to be found."
     },
     {
       "id": "C104",
       "title": "Captain's Pick",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're captain, picking first.",
+      "choices": [
+        "Best player",
+        "Best friend",
+        "Newest player"
+      ],
+      "twist": "The other captain is your biggest rival."
     },
     {
       "id": "C105",
       "title": "Charades Gamble",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Choose your charades card.",
+      "choices": [
+        "Easy",
+        "Hard, double points",
+        "Act it with a partner"
+      ],
+      "twist": "It's the last turn and your team is one point behind."
     },
     {
       "id": "C106",
       "title": "Trivia Crew",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Pick your trivia team.",
+      "choices": [
+        "The smartest",
+        "The funniest",
+        "Your closest friends"
+      ],
+      "twist": "The category is sports."
     },
     {
       "id": "C107",
       "title": "Tiny Judge",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "It's a paper airplane contest.",
+      "choices": [
+        "Built for distance",
+        "Built for loops",
+        "Built to look funny"
+      ],
+      "twist": "The judge is five years old."
     },
     {
       "id": "C108",
       "title": "Fort Siege",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Cousins attack your pillow fort.",
+      "choices": [
+        "Defend",
+        "Surrender dramatically",
+        "Counterattack"
+      ],
+      "twist": "Your sibling just switched sides."
     },
     {
       "id": "C109",
       "title": "Tower Panic",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Two minutes to build the tallest tower.",
+      "choices": [
+        "Careful base",
+        "Rush upward",
+        "Boss the team"
+      ],
+      "twist": "Another team may knock down one block."
     },
     {
       "id": "C110",
       "title": "Buzzer Gamble",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're 70% sure of the answer.",
+      "choices": [
+        "Buzz now",
+        "Wait",
+        "Whisper to your teammate"
+      ],
+      "twist": "Wrong answers cost points."
     },
     {
       "id": "C111",
       "title": "Spelling Duel",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're in a spelling duel with a friend.",
+      "choices": [
+        "Easy word",
+        "Hard word",
+        "Ask for a hint"
+      ],
+      "twist": "Your friend looks very nervous."
     },
     {
       "id": "C112",
       "title": "Last Hole",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You need a hole-in-one on the last mini-golf hole.",
+      "choices": [
+        "Go for it",
+        "Safe putt",
+        "Ask for a tip"
+      ],
+      "twist": "A crowd gathers to watch."
     },
     {
       "id": "C113",
       "title": "Show-Down",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Settle a tie with rock-paper-scissors.",
+      "choices": [
+        "Rock",
+        "Paper",
+        "Scissors"
+      ],
+      "twist": "Your opponent announces what they'll throw."
     },
     {
       "id": "C114",
       "title": "Pie Pick",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "The winner chooses who gets a pie in the face.",
+      "choices": [
+        "Yourself",
+        "Best friend",
+        "Rival"
+      ],
+      "twist": "Whoever you choose picks next."
     },
     {
       "id": "C115",
       "title": "Poker Face",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You hold a weak hand in a card game.",
+      "choices": [
+        "Big bluff",
+        "Small bluff",
+        "Fold"
+      ],
+      "twist": "The player on your left always calls bluffs."
     },
     {
       "id": "C116",
       "title": "Don't Laugh",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're in a staring contest with a funny friend.",
+      "choices": [
+        "Look away",
+        "Stare them down",
+        "Hum a tune"
+      ],
+      "twist": "They pull out a rubber chicken."
     },
     {
       "id": "C117",
       "title": "Egg Toss",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're in the final two pairs of the egg toss.",
+      "choices": [
+        "Step back far",
+        "Stay close",
+        "Soft lobs"
+      ],
+      "twist": "Your partner is nervous."
     },
     {
       "id": "C118",
       "title": "Last Dodger",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're the last one standing on your dodgeball team.",
+      "choices": [
+        "Hide",
+        "Charge",
+        "Catch for the team"
+      ],
+      "twist": "Your whole team starts chanting."
     },
     {
       "id": "C119",
       "title": "Switch Sides",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "The losing team offers you a spot.",
+      "choices": [
+        "Join them",
+        "Stay",
+        "Offer a swap"
+      ],
+      "twist": "Your best friend is on the losing team."
     },
     {
       "id": "C120",
       "title": "Cheer Lead",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're asked to lead the team cheer.",
+      "choices": [
+        "An epic cheer",
+        "A short cheer",
+        "Pass it"
+      ],
+      "twist": "A rival team will copy yours."
     },
     {
       "id": "C121",
       "title": "Dinner Neighbor",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Pick who sits next to you at dinner.",
+      "choices": [
+        "Best friend",
+        "Someone new",
+        "The funniest person"
+      ],
+      "twist": "They'll tell stories about you all night."
     },
     {
       "id": "C122",
       "title": "Secret Gift",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You drew a name you barely know in a gift swap.",
+      "choices": [
+        "Safe gift card",
+        "Quirky personal gift",
+        "Ask around"
+      ],
+      "twist": "All gifts are opened aloud."
     },
     {
       "id": "C123",
       "title": "Going Viral",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You went viral for something small.",
+      "choices": [
+        "Lean in",
+        "Hide",
+        "Make a sequel"
+      ],
+      "twist": "It's something you're not proud of."
     },
     {
       "id": "C124",
       "title": "Golden Pass",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You have three free line-skips for life.",
+      "choices": [
+        "Use them early",
+        "Save for emergencies",
+        "Gift one"
+      ],
+      "twist": "Each use is announced loudly."
     },
     {
       "id": "C125",
       "title": "One-Hour Boss",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're boss of the household for one hour.",
+      "choices": [
+        "Set food rules",
+        "Pick the music",
+        "Assign chores"
+      ],
+      "twist": "Your rules apply to you too."
     },
     {
       "id": "C126",
       "title": "Skip Pass",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "One pass skips anything.",
+      "choices": [
+        "A chore",
+        "A test",
+        "A boring event"
+      ],
+      "twist": "Someone you pick must take your place."
     },
     {
       "id": "C127",
       "title": "Odd Inheritance",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You inherit one odd family item.",
+      "choices": [
+        "A grand old hat",
+        "A parrot",
+        "A mysterious painting"
+      ],
+      "twist": "Relatives all want to see it this weekend."
     },
     {
       "id": "C128",
       "title": "Prank Payback",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You get to prank the person on your left.",
+      "choices": [
+        "Harmless scare",
+        "Silly disguise",
+        "Fake news"
+      ],
+      "twist": "They choose your payback."
     },
     {
       "id": "C129",
       "title": "Table Toast",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You must give a toast to someone at the table.",
+      "choices": [
+        "Best friend",
+        "Someone barely known",
+        "Yourself"
+      ],
+      "twist": "They toast you back."
     },
     {
       "id": "C130",
       "title": "Compliment Echo",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Compliment the person on your right.",
+      "choices": [
+        "Funny",
+        "Sincere",
+        "Surprising"
+      ],
+      "twist": "They repeat it to everyone."
     },
     {
       "id": "C131",
       "title": "Mystery Partner",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Pick a partner for a secret task.",
+      "choices": [
+        "The strongest",
+        "The funniest",
+        "Your closest friend"
+      ],
+      "twist": "The task is a three-legged race."
     },
     {
       "id": "C132",
       "title": "Big Gamble",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A game show offers $1,000 or double-or-nothing.",
+      "choices": [
+        "Take $1,000",
+        "Gamble it all",
+        "Gamble half"
+      ],
+      "twist": "Your friends are screaming Gamble!"
     },
     {
       "id": "C133",
       "title": "Generous Friend",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friend treats you to something pricey.",
+      "choices": [
+        "Accept",
+        "Refuse politely",
+        "Split it"
+      ],
+      "twist": "You suspect they can't really afford it."
     },
     {
       "id": "C134",
       "title": "Volunteer Call",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "The group needs a volunteer for a silly task.",
+      "choices": [
+        "Volunteer",
+        "Wait",
+        "Nominate a friend"
+      ],
+      "twist": "Whoever volunteers wins a prize."
     },
     {
       "id": "C135",
       "title": "Phone-Free Cash",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You're offered $100 for a phone-free day.",
+      "choices": [
+        "Accept",
+        "Decline",
+        "Negotiate for more"
+      ],
+      "twist": "You're expecting an important message."
     },
     {
       "id": "C136",
       "title": "Nickname Vote",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Choose your own nickname.",
+      "choices": [
+        "Cool",
+        "Funny",
+        "Mysterious"
+      ],
+      "twist": "Your friends can veto it."
     },
     {
       "id": "C137",
       "title": "Trophy Spot",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You win a huge trophy. Where does it go?",
+      "choices": [
+        "Living room",
+        "Bedroom",
+        "Hidden away"
+      ],
+      "twist": "Your rival visits tomorrow."
     },
     {
       "id": "C138",
       "title": "Statue",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A statue of you goes up in town.",
+      "choices": [
+        "Heroic pose",
+        "Funny pose",
+        "Casual pose"
+      ],
+      "twist": "Pigeons will perch on it forever."
     },
     {
       "id": "C139",
       "title": "Hot Seat",
       "status": "priority_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Ask someone at the table one honest question.",
+      "choices": [
+        "Silly",
+        "Personal",
+        "Embarrassing"
+      ],
+      "twist": "They ask you one back."
     },
     {
       "id": "C140",
       "title": "Gift Steal",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You may swap your gift with anyone's.",
+      "choices": [
+        "Steal the best-looking",
+        "Keep yours",
+        "Trade with a friend"
+      ],
+      "twist": "Everyone's gifts are unwrapped first."
     },
     {
       "id": "C141",
       "title": "Public Dare",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "$50 for a silly dance in public.",
+      "choices": [
+        "At school or work",
+        "At a mall",
+        "For friends only"
+      ],
+      "twist": "A friend will film it."
     },
     {
       "id": "C142",
       "title": "Chaos Rule",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Add one rule to the next game.",
+      "choices": [
+        "Funny voices",
+        "Last-place bonus",
+        "Random wild card"
+      ],
+      "twist": "The player on your left can veto."
     },
     {
       "id": "C143",
       "title": "Celebrity Visit",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Your favorite celebrity visits for ten minutes.",
+      "choices": [
+        "Selfie",
+        "Real conversation",
+        "Show a talent"
+      ],
+      "twist": "They're in a bad mood."
     },
     {
       "id": "C144",
       "title": "Announcement",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You get one announcement to your whole school or office.",
+      "choices": [
+        "Funny",
+        "Heartfelt",
+        "Mysterious"
+      ],
+      "twist": "It plays twice."
     },
     {
       "id": "C145",
       "title": "Puppy Name",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You must name a new puppy.",
+      "choices": [
+        "Silly",
+        "Elegant",
+        "Your own nickname"
+      ],
+      "twist": "You'll shout it across a crowded park."
     },
     {
       "id": "C146",
       "title": "Overshare",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friend overshares something awkward.",
+      "choices": [
+        "Change the subject",
+        "Laugh with them",
+        "Share your own"
+      ],
+      "twist": "They look at you for support."
     },
     {
       "id": "C147",
       "title": "Hype Friend",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "A friend is nervous before a performance.",
+      "choices": [
+        "Hype them up",
+        "Calm them",
+        "Distract them"
+      ],
+      "twist": "They hate pep talks."
     },
     {
       "id": "C148",
       "title": "Group Costume",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "Friends want a group costume.",
+      "choices": [
+        "Characters",
+        "Silly objects",
+        "Everyone different"
+      ],
+      "twist": "The best group costume wins a prize."
     },
     {
       "id": "C149",
       "title": "Last Word",
       "status": "pending_cross_review",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "You get the last word in a playful argument.",
+      "choices": [
+        "Funny comeback",
+        "Gracious reply",
+        "Silence"
+      ],
+      "twist": "Everyone's waiting to hear it."
     },
     {
       "id": "C150",
       "title": "Grand Finale",
       "status": "low_priority",
-      "source": "Claude submission in conversation; full text pending structured transcription"
+      "source": "Claude submission in conversation",
+      "scenario": "End the night with something memorable.",
+      "choices": [
+        "A speech",
+        "A game",
+        "A song"
+      ],
+      "twist": "Everyone's energy is low."
     }
   ],
   "reserves": [],
