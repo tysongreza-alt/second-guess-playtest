@@ -1474,7 +1474,7 @@
         "A meal named after you"
       ],
       "twist": "The chef will serve it to everyone at your table.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1487,7 +1487,7 @@
         "Hand it to the winner"
       ],
       "twist": "The actual winner is sitting beside you.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1500,7 +1500,7 @@
         "Join the applause"
       ],
       "twist": "Your best friend started it as a joke.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1513,7 +1513,7 @@
         "Offer it away"
       ],
       "twist": "The person beside it has saved the seat for you.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1526,7 +1526,7 @@
         "Pull a prank"
       ],
       "twist": "Your best friend will remember the truth.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1539,7 +1539,7 @@
         "Go alone"
       ],
       "twist": "The guest gets to meet the performer; you don't.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1552,7 +1552,7 @@
         "A family recipe"
       ],
       "twist": "One judge taught you how to cook.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1565,7 +1565,7 @@
         "Cartoon character"
       ],
       "twist": "Every time you laugh, they hear it too.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1578,7 +1578,7 @@
         "Offer a favor"
       ],
       "twist": "They admit they broke something of yours last week.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1591,7 +1591,7 @@
         "Someone you've just met"
       ],
       "twist": "Your partner gets to choose your challenge.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1604,7 +1604,7 @@
         "Play another round"
       ],
       "twist": "They've already submitted it to a contest.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1617,7 +1617,7 @@
         "Sports game"
       ],
       "twist": "You must perform a tiny part of the show.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1630,7 +1630,7 @@
         "Plan a game"
       ],
       "twist": "They brought a camera crew for a surprise video.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1643,7 +1643,7 @@
         "Speed puzzles"
       ],
       "twist": "Your family enters you in a public competition.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1656,7 +1656,7 @@
         "Be surprisingly specific"
       ],
       "twist": "The winner must accept the same compliment publicly.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1669,7 +1669,7 @@
         "Show a friend"
       ],
       "twist": "It knows exactly what you've forgotten.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1682,7 +1682,7 @@
         "Send a small gift"
       ],
       "twist": "The next letter arrives during a family gathering.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1695,7 +1695,7 @@
         "Invent a new identity"
       ],
       "twist": "The baker is standing there waiting for your reaction.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1708,7 +1708,7 @@
         "Funny childhood story"
       ],
       "twist": "Someone at the table already knows it.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1721,7 +1721,7 @@
         "Their signature move"
       ],
       "twist": "You must teach it to a stranger tomorrow.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1734,7 +1734,7 @@
         "Avoid everyone"
       ],
       "twist": "Your funniest friend is assigned to distract you.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1747,7 +1747,7 @@
         "Funny photograph"
       ],
       "twist": "You must give a guided tour to visitors.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1760,7 +1760,7 @@
         "Test it first"
       ],
       "twist": "The shortcut passes through a costume parade.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1773,7 +1773,7 @@
         "Tell a shared story"
       ],
       "twist": "They unexpectedly invite you to join the act.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1786,7 +1786,7 @@
         "Giant plush bear"
       ],
       "twist": "It cheers every time you enter a room.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1799,7 +1799,7 @@
         "Most entertaining"
       ],
       "twist": "Every contestant gets to judge your next attempt.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1812,7 +1812,7 @@
         "Recruit a helper"
       ],
       "twist": "The item is a giant cardboard trophy.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1825,7 +1825,7 @@
         "Shopping for yard work"
       ],
       "twist": "You must teach them your original chore first.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1838,7 +1838,7 @@
         "Try to make them laugh"
       ],
       "twist": "Your own embarrassing video starts playing.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1851,7 +1851,7 @@
         "A magician"
       ],
       "twist": "They get to invent one house rule.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1864,7 +1864,7 @@
         "Matching pajamas"
       ],
       "twist": "You must wear them on public transportation.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1877,7 +1877,7 @@
         "Your kindness"
       ],
       "twist": "It says each compliment through a loudspeaker.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1890,7 +1890,7 @@
         "Help someone better"
       ],
       "twist": "Everyone else remembers both versions.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1903,7 +1903,7 @@
         "Swap teams"
       ],
       "twist": "Everyone votes on whether to keep it afterward.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1916,7 +1916,7 @@
         "Trivia"
       ],
       "twist": "Neighbors ask for a demonstration tonight.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1929,7 +1929,7 @@
         "Watch from the sidewalk"
       ],
       "twist": "Your rival offers to be the announcer.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1942,7 +1942,7 @@
         "Make one up"
       ],
       "twist": "They let you choose the song but insist on singing first.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -1955,7 +1955,7 @@
         "Do a silly dance"
       ],
       "twist": "Your friend offers to take half the punishment.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -1968,7 +1968,7 @@
         "Something everyone likes"
       ],
       "twist": "Your family gets to review it publicly.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1981,7 +1981,7 @@
         "Save for later"
       ],
       "twist": "A countdown appears on the envelope.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -1994,7 +1994,7 @@
         "Someone you've just met"
       ],
       "twist": "They get to ask you the same question.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2007,7 +2007,7 @@
         "Ask someone to teach you"
       ],
       "twist": "They've already announced you as the instructor.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2020,7 +2020,7 @@
         "Ridiculously silly"
       ],
       "twist": "You must demonstrate it with a stranger.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2033,7 +2033,7 @@
         "Most original"
       ],
       "twist": "The winner chooses your costume next year.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2046,7 +2046,7 @@
         "Keep it short"
       ],
       "twist": "Your oldest friend is holding the microphone.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2059,7 +2059,7 @@
         "A household object"
       ],
       "twist": "People start asking you to autograph it.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2072,7 +2072,7 @@
         "Offer teams"
       ],
       "twist": "They've been practicing for a month.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2085,7 +2085,7 @@
         "Invite someone up"
       ],
       "twist": "The audience is made entirely of people you know.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2098,7 +2098,7 @@
         "Tell jokes"
       ],
       "twist": "Everyone hears the performance, even though they can't see you.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2111,7 +2111,7 @@
         "Make something together"
       ],
       "twist": "The losing plan becomes tomorrow's activity.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2124,7 +2124,7 @@
         "Ask the organizer"
       ],
       "twist": "The rightful winner is your biggest rival.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2137,7 +2137,7 @@
         "Invite a friend"
       ],
       "twist": "Your first performance was a complete accident.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2150,7 +2150,7 @@
         "Share it"
       ],
       "twist": "The entire restaurant starts singing.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2163,7 +2163,7 @@
         "Ask for clues"
       ],
       "twist": "They remember a story that really happened to you.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2176,7 +2176,7 @@
         "Give it to the host"
       ],
       "twist": "Your name is written underneath.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2189,7 +2189,7 @@
         "A meaningful song"
       ],
       "twist": "The song plays every morning for a week.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2202,7 +2202,7 @@
         "Ask to join them"
       ],
       "twist": "They're about to play the championship.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2215,7 +2215,7 @@
         "Fix an embarrassment"
       ],
       "twist": "The magician insists on a dramatic public reveal.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2228,7 +2228,7 @@
         "Give it back"
       ],
       "twist": "They announce to everyone that you're their most responsible friend.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2241,7 +2241,7 @@
         "Tell a funny story"
       ],
       "twist": "Your pet refuses to cooperate onstage.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2254,7 +2254,7 @@
         "Make it surprising"
       ],
       "twist": "Your opponent gets to taste it before judging.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2267,7 +2267,7 @@
         "Sit alone"
       ],
       "twist": "Your seatmate chooses the music for the whole bus.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2280,7 +2280,7 @@
         "Turn it into a joke"
       ],
       "twist": "It has a secret message inside.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2293,7 +2293,7 @@
         "Offer another day"
       ],
       "twist": "They already told everyone you volunteered.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2306,7 +2306,7 @@
         "Play along"
       ],
       "twist": "They've confused you with someone from your school or work.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2319,7 +2319,7 @@
         "Trade for something else"
       ],
       "twist": "They insist you did all the work.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2332,7 +2332,7 @@
         "Keep it silent"
       ],
       "twist": "It loudly disagrees with your opinions.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2345,7 +2345,7 @@
         "Explore the kingdom"
       ],
       "twist": "Your subjects can vote you out by lunchtime.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2358,7 +2358,7 @@
         "Tell the staff"
       ],
       "twist": "The entrance opens directly onto a stage.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2371,7 +2371,7 @@
         "Make rainbows"
       ],
       "twist": "The weather follows whoever holds it, even indoors.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2384,7 +2384,7 @@
         "Teach everyone phrases"
       ],
       "twist": "The visitor keeps making jokes about the host.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2397,7 +2397,7 @@
         "Meet a friend"
       ],
       "twist": "It acts exactly like your most dramatic relative.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2410,7 +2410,7 @@
         "Carry the flag"
       ],
       "twist": "The parade crosses your family's dinner table.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2423,7 +2423,7 @@
         "Hide it away"
       ],
       "twist": "Someone in the photo is standing beside you now.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2436,7 +2436,7 @@
         "Talk to animals"
       ],
       "twist": "A friend gets to decide when the power activates.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2449,7 +2449,7 @@
         "Pretend not to notice"
       ],
       "twist": "The prize is choosing your next adventure.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2462,7 +2462,7 @@
         "Tell the group"
       ],
       "twist": "They show you a card proving they can win alone.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2475,7 +2475,7 @@
         "Offer a redo"
       ],
       "twist": "Your opponent calls it brilliant strategy.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2488,7 +2488,7 @@
         "Quiet handshake"
       ],
       "twist": "The opposing team is watching from a few feet away.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2501,7 +2501,7 @@
         "Ask the referee"
       ],
       "twist": "Your incorrect method is somehow working.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2514,7 +2514,7 @@
         "Delegate to a friend"
       ],
       "twist": "The group includes someone who always disagrees with you.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2527,7 +2527,7 @@
         "Wait for confirmation"
       ],
       "twist": "Someone else confidently announces a different answer.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2540,7 +2540,7 @@
         "Invent a new contest"
       ],
       "twist": "The loser must compliment the winner in public.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2553,7 +2553,7 @@
         "Make a gesture"
       ],
       "twist": "The other team hears your hint too.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2566,7 +2566,7 @@
         "Tell everyone"
       ],
       "twist": "Your little sibling is cheering for you.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2579,7 +2579,7 @@
         "Plan a surprise"
       ],
       "twist": "The giver asks that nobody find out.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2592,7 +2592,7 @@
         "Distract everyone"
       ],
       "twist": "Your friend starts dropping obvious clues.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2605,7 +2605,7 @@
         "Someone who loves surprises"
       ],
       "twist": "The guest must give a short review afterward.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2618,7 +2618,7 @@
         "Perform a trick"
       ],
       "twist": "The quietest person in the room gets the deciding vote.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2631,7 +2631,7 @@
         "Walk away"
       ],
       "twist": "The winner must share it with the runner-up.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2644,7 +2644,7 @@
         "Make a sequel"
       ],
       "twist": "Your art teacher wants to display the original.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2657,7 +2657,7 @@
         "Ask a cohost"
       ],
       "twist": "The guests are all better planners than you.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2670,7 +2670,7 @@
         "Keep answers short"
       ],
       "twist": "Your friend hears the interview live.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2683,7 +2683,7 @@
         "Swap with a friend"
       ],
       "twist": "Someone asks you for professional advice.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2696,7 +2696,7 @@
         "Give a speech"
       ],
       "twist": "The audience believes you saved the day.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2709,7 +2709,7 @@
         "Invent a new one"
       ],
       "twist": "Your teacher or boss joins in.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2722,7 +2722,7 @@
         "A magic trick"
       ],
       "twist": "Someone starts timing you with a giant clock.",
-      "status": "draft_self_review_required",
+      "status": "low_priority",
       "author": "ChatGPT"
     },
     {
@@ -2735,7 +2735,7 @@
         "Tell a compliment disguised as a joke"
       ],
       "twist": "Your target gets the final comeback.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     },
     {
@@ -2748,7 +2748,7 @@
         "Be sincere"
       ],
       "twist": "The other person remembers your first attempt.",
-      "status": "draft_self_review_required",
+      "status": "needs_revision_or_comparison",
       "author": "ChatGPT"
     },
     {
@@ -2761,7 +2761,7 @@
         "Write in a surprise name"
       ],
       "twist": "Everyone must explain their vote afterward.",
-      "status": "draft_self_review_required",
+      "status": "priority_review",
       "author": "ChatGPT"
     }
   ],
@@ -3369,5 +3369,96 @@
   ],
   "reserves": [],
   "final_selected": [],
-  "next_step": "Self-review 100 ChatGPT drafts; import full Claude source; cross-review and select 120"
+  "next_step": "Self-review 100 ChatGPT drafts; import full Claude source; cross-review and select 120",
+  "editorial_screen": {
+    "date": "2026-11-11",
+    "method": "Preliminary heuristic and editorial screening; not validated playtest or blind cross-review",
+    "duplicate_titles": [
+      [
+        "O030",
+        "C009",
+        "Secret Party"
+      ],
+      [
+        "O084",
+        "C122",
+        "Secret Gift"
+      ],
+      [
+        "O021",
+        "G040",
+        "The Mystery Envelope"
+      ],
+      [
+        "O023",
+        "G088",
+        "The Unexpected Invitation"
+      ]
+    ],
+    "chatgpt_priority_ids": [
+      "G002",
+      "G005",
+      "G008",
+      "G010",
+      "G011",
+      "G019",
+      "G025",
+      "G026",
+      "G027",
+      "G029",
+      "G033",
+      "G035",
+      "G038",
+      "G041",
+      "G042",
+      "G047",
+      "G051",
+      "G052",
+      "G054",
+      "G066",
+      "G073",
+      "G077",
+      "G082",
+      "G087",
+      "G093",
+      "G094",
+      "G098",
+      "G100"
+    ],
+    "chatgpt_low_priority_ids": [
+      "G012",
+      "G013",
+      "G017",
+      "G023",
+      "G031",
+      "G032",
+      "G036",
+      "G039",
+      "G040",
+      "G045",
+      "G046",
+      "G049",
+      "G050",
+      "G058",
+      "G059",
+      "G060",
+      "G063",
+      "G069",
+      "G071",
+      "G076",
+      "G078",
+      "G079",
+      "G083",
+      "G086",
+      "G090",
+      "G095",
+      "G097"
+    ],
+    "chatgpt_remaining": 45,
+    "limitations": [
+      "Claude 150 full card texts not yet imported",
+      "Cross-author comparisons and final 120 selection not yet completed",
+      "Heuristic flags do not establish empirical performance"
+    ]
+  }
 }
