@@ -1,6 +1,6 @@
 {
   "schema": "called-it-candidate-pool-v1",
-  "status": "editorial development, no live deck changes",
+  "status": "Playtest edition 2026.11.11.1 published in index.html; all 350 source texts imported",
   "baseline_version": "2026.11.10.4",
   "scoring": {
     "twist": 30,
@@ -20,7 +20,7 @@
         "Suggest splitting it"
       ],
       "twist": "You learn that whoever eats it has to clean up the entire kitchen.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O002",
@@ -32,7 +32,7 @@
         "Mystery"
       ],
       "twist": "You win $20 if everyone watches to the credits.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O003",
@@ -44,7 +44,7 @@
         "Fresh baked treats"
       ],
       "twist": "The delivery always arrives right before bedtime, and you can't save it for later.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O004",
@@ -56,7 +56,7 @@
         "Front"
       ],
       "twist": "Your best friend refuses that section.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O005",
@@ -68,7 +68,7 @@
         "Pizza"
       ],
       "twist": "The other two become free for life.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O006",
@@ -80,7 +80,7 @@
         "Indoor ride"
       ],
       "twist": "You must ride it three times.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O007",
@@ -92,7 +92,7 @@
         "Food and conversation"
       ],
       "twist": "One guest brings along someone none of you know, and you're responsible for making them feel included.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O008",
@@ -104,7 +104,7 @@
         "Sweet pastry"
       ],
       "twist": "You must eat it daily for a month.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O009",
@@ -116,7 +116,7 @@
         "Gaming videos"
       ],
       "twist": "Everyone at home must watch with you.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O010",
@@ -128,7 +128,7 @@
         "Cookies"
       ],
       "twist": "You must make it yourself with no recipe.",
-      "status": "pending_cross_review"
+      "status": "reserve_for_playtest"
     },
     {
       "id": "O011",
@@ -140,7 +140,7 @@
         "Sleep"
       ],
       "twist": "You must keep the driver entertained.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O012",
@@ -152,7 +152,7 @@
         "Ticket-winning games"
       ],
       "twist": "You can keep every prize you win, but you must beat your own high score before leaving.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O013",
@@ -164,7 +164,7 @@
         "Dance songs"
       ],
       "twist": "You must perform with every song.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O014",
@@ -176,7 +176,7 @@
         "A thoughtful handmade gift"
       ],
       "twist": "You can keep it only if you correctly guess who sent it before opening the card.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O015",
@@ -188,7 +188,7 @@
         "Live competition"
       ],
       "twist": "You must invite 20 people.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O016",
@@ -200,7 +200,7 @@
         "An amazing dessert"
       ],
       "twist": "You learn the other person packed your favorite food, but you must decide before seeing which option it is.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O017",
@@ -212,7 +212,7 @@
         "Giant slide"
       ],
       "twist": "You have only ten minutes.",
-      "status": "pending_cross_review"
+      "status": "reserve_for_playtest"
     },
     {
       "id": "O018",
@@ -224,7 +224,7 @@
         "Hang with a group"
       ],
       "twist": "You cannot spend any money.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O019",
@@ -236,7 +236,7 @@
         "Your favorite food free for a year"
       ],
       "twist": "You may keep the prize, but the person sitting to your left chooses who shares it with you.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O020",
@@ -248,7 +248,7 @@
         "Tacos"
       ],
       "twist": "The restaurant you choose will be the only place your group can eat together for the next month.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O021",
@@ -260,7 +260,7 @@
         "Something you can share"
       ],
       "twist": "You discover you must give the entire prize to someone else, but you get to choose who.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O022",
@@ -272,7 +272,7 @@
         "Share one of yours"
       ],
       "twist": "They tell everyone tomorrow anyway.",
-      "status": "pending_cross_review"
+      "status": "reserve_for_playtest"
     },
     {
       "id": "O023",
@@ -284,7 +284,7 @@
         "Championship game"
       ],
       "twist": "Your friend says your presence matters most.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O024",
@@ -296,7 +296,7 @@
         "Invite them to play"
       ],
       "twist": "They're extremely shy.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O025",
@@ -308,7 +308,7 @@
         "Watch"
       ],
       "twist": "The target has had a terrible day.",
-      "status": "pending_cross_review"
+      "status": "reserve_for_playtest"
     },
     {
       "id": "O026",
@@ -320,7 +320,7 @@
         "Calm person"
       ],
       "twist": "You must swap roles without speaking.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O027",
@@ -332,7 +332,7 @@
         "Wait"
       ],
       "twist": "The outing is tomorrow and nobody replied.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O028",
@@ -344,7 +344,7 @@
         "Kind gesture"
       ],
       "twist": "They leave for a week in five minutes.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O029",
@@ -356,7 +356,7 @@
         "Convince one person"
       ],
       "twist": "Someone secretly agrees.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O030",
@@ -368,7 +368,7 @@
         "Invite everyone"
       ],
       "twist": "The guest of honor hates surprises.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O031",
@@ -380,7 +380,7 @@
         "Ask around"
       ],
       "twist": "You spot the owner leaving.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O032",
@@ -392,7 +392,7 @@
         "Compliment back"
       ],
       "twist": "They repeat it through a microphone.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O033",
@@ -404,7 +404,7 @@
         "Stay home and enjoy the freedom"
       ],
       "twist": "You get a message saying everyone you know also has the day off.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O034",
@@ -416,7 +416,7 @@
         "Find another solution"
       ],
       "twist": "They secretly helped you last week.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O035",
@@ -428,7 +428,7 @@
         "Post one of them"
       ],
       "twist": "Strangers start sharing it.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O036",
@@ -440,7 +440,7 @@
         "Always try something new"
       ],
       "twist": "You must follow it for a year.",
-      "status": "pending_cross_review"
+      "status": "reserve_for_playtest"
     },
     {
       "id": "O037",
@@ -452,7 +452,7 @@
         "Avoid answering"
       ],
       "twist": "They're getting it again tomorrow.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O038",
@@ -464,7 +464,7 @@
         "Plan later"
       ],
       "twist": "They leave town in an hour.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O039",
@@ -476,7 +476,7 @@
         "Stay with friends"
       ],
       "twist": "They're secretly the best player.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O040",
@@ -488,7 +488,7 @@
         "Enjoy privacy"
       ],
       "twist": "You can't turn it off until midnight.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O041",
@@ -500,7 +500,7 @@
         "Skip a journey"
       ],
       "twist": "You must get home normally.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O042",
@@ -512,7 +512,7 @@
         "Stranger"
       ],
       "twist": "They hear your thoughts too.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O043",
@@ -524,7 +524,7 @@
         "50 years ahead"
       ],
       "twist": "You can watch but not interact.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O044",
@@ -536,7 +536,7 @@
         "Explore empty city"
       ],
       "twist": "You lose an hour of sleep tonight.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O045",
@@ -548,7 +548,7 @@
         "Never get lost"
       ],
       "twist": "People can ask you to use it anytime.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O046",
@@ -560,7 +560,7 @@
         "Good news"
       ],
       "twist": "You must read it aloud to everyone.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O047",
@@ -572,7 +572,7 @@
         "Visit loved ones"
       ],
       "twist": "You remember everything they did.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O048",
@@ -584,7 +584,7 @@
         "Secret codes"
       ],
       "twist": "You must translate for strangers weekly.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O049",
@@ -596,7 +596,7 @@
         "Day with someone missed"
       ],
       "twist": "Everyone involved watches too.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O050",
@@ -608,7 +608,7 @@
         "Mountains"
       ],
       "twist": "It stays open only 30 minutes.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O051",
@@ -620,7 +620,7 @@
         "Talents"
       ],
       "twist": "They ask one question you must answer honestly.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O052",
@@ -632,7 +632,7 @@
         "Thunderstorm"
       ],
       "twist": "Your whole town gets it.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O053",
@@ -644,7 +644,7 @@
         "Science"
       ],
       "twist": "You compete against a professional tomorrow.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O054",
@@ -656,7 +656,7 @@
         "Argument"
       ],
       "twist": "Everyone remembers the first version.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O055",
@@ -668,7 +668,7 @@
         "Lakeside cabin"
       ],
       "twist": "You must share it forever with one person.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O056",
@@ -680,7 +680,7 @@
         "Reunion"
       ],
       "twist": "You remember it like real life.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O057",
@@ -692,7 +692,7 @@
         "Traveling to places you go often"
       ],
       "twist": "The shortcut works only when you're completely alone.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O058",
@@ -704,7 +704,7 @@
         "Personal goal"
       ],
       "twist": "Everyone knows you're using it.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O059",
@@ -716,7 +716,7 @@
         "Comedian"
       ],
       "twist": "They borrow one of your skills too.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O060",
@@ -728,7 +728,7 @@
         "Day with admired person"
       ],
       "twist": "Your companion chooses the date.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O061",
@@ -740,7 +740,7 @@
         "Nature cabin"
       ],
       "twist": "Leave tomorrow with one backpack.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O062",
@@ -752,7 +752,7 @@
         "Sleeper train"
       ],
       "twist": "Your roommate is a surprise.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O063",
@@ -764,7 +764,7 @@
         "Scavenger hunt"
       ],
       "twist": "Your partner has never tried it.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O064",
@@ -776,7 +776,7 @@
         "Historic ruins"
       ],
       "twist": "You may explore only at night with a guide.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O065",
@@ -788,7 +788,7 @@
         "Movie studio"
       ],
       "twist": "Bring someone who's never been.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O066",
@@ -800,7 +800,7 @@
         "Activities"
       ],
       "twist": "The planner refuses to reveal it.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O067",
@@ -812,7 +812,7 @@
         "Shops and activities"
       ],
       "twist": "No internet or phone service.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O068",
@@ -824,7 +824,7 @@
         "Visit nearby friends"
       ],
       "twist": "Snow melts by noon.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O069",
@@ -836,7 +836,7 @@
         "Kayaking"
       ],
       "twist": "Your closest friend is scared but wants to join.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O070",
@@ -848,7 +848,7 @@
         "Stage show"
       ],
       "twist": "You attend alone in the front row.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O071",
@@ -860,7 +860,7 @@
         "Swimming"
       ],
       "twist": "You must coach beginners every weekend.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O072",
@@ -872,7 +872,7 @@
         "An unforgettable sandwich"
       ],
       "twist": "Five minutes before judging, you learn the judges will taste it blindfolded and you cannot explain what you made.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O073",
@@ -884,7 +884,7 @@
         "Unusual skill"
       ],
       "twist": "Someone challenges it tomorrow.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O074",
@@ -896,7 +896,7 @@
         "Outsmart opponent"
       ],
       "twist": "A younger player is about to win for the first time.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O075",
@@ -908,7 +908,7 @@
         "Magic"
       ],
       "twist": "Perform with someone you barely know.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O076",
@@ -920,7 +920,7 @@
         "Get an extra minute to think"
       ],
       "twist": "The question is worth double points, but using any lifeline means you must split the prize with a stranger.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O077",
@@ -932,7 +932,7 @@
         "Quick reflexes"
       ],
       "twist": "Opponent chooses difficulty.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O078",
@@ -944,7 +944,7 @@
         "Funny"
       ],
       "twist": "Wear it everywhere all weekend.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O079",
@@ -956,7 +956,7 @@
         "Aim for one small win"
       ],
       "twist": "Opponents offer you one rule change.",
-      "status": "pending_cross_review"
+      "status": "selected_for_playtest"
     },
     {
       "id": "O080",
@@ -968,7 +968,7 @@
         "A live comedy show"
       ],
       "twist": "The second ticket must go to someone who doesn't like your chosen event.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O081",
@@ -980,7 +980,7 @@
         "Most creative"
       ],
       "twist": "Give a speech proving you deserve it.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O082",
@@ -992,7 +992,7 @@
         "Gather group"
       ],
       "twist": "Only one person gets the prize.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O083",
@@ -1004,7 +1004,7 @@
         "Electronics"
       ],
       "twist": "Everything must fit in a backpack.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O084",
@@ -1016,7 +1016,7 @@
         "Someone who barely knows you"
       ],
       "twist": "You must give them a gift immediately too.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O085",
@@ -1028,7 +1028,7 @@
         "Object with a story"
       ],
       "twist": "Give it away after a week.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O086",
@@ -1040,7 +1040,7 @@
         "A stranger"
       ],
       "twist": "You discover the person you choose must decide whether to keep the gift or pass it on to someone else.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O087",
@@ -1052,7 +1052,7 @@
         "Games store"
       ],
       "twist": "Keep only what you carry without a bag.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O088",
@@ -1064,7 +1064,7 @@
         "Tickets for four"
       ],
       "twist": "Give it to someone else in the room.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O089",
@@ -1076,7 +1076,7 @@
         "Favorite game"
       ],
       "twist": "They borrow one of your things too.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O090",
@@ -1088,7 +1088,7 @@
         "Books and games"
       ],
       "twist": "Use it every week.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O091",
@@ -1100,7 +1100,7 @@
         "Playgrounds"
       ],
       "twist": "Volunteer there every month.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O092",
@@ -1112,7 +1112,7 @@
         "Share it"
       ],
       "twist": "Whatever is inside needs two people.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O093",
@@ -1124,7 +1124,7 @@
         "Special outing"
       ],
       "twist": "All friends are busy that day.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O094",
@@ -1136,7 +1136,7 @@
         "Devices"
       ],
       "twist": "Everything else can be replaced free.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O095",
@@ -1148,7 +1148,7 @@
         "Relative rarely seen"
       ],
       "twist": "One planned a special surprise.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O096",
@@ -1160,7 +1160,7 @@
         "More time with loved ones"
       ],
       "twist": "It lasts only one month starting tomorrow.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O097",
@@ -1172,7 +1172,7 @@
         "Cooking night"
       ],
       "twist": "You must organize every time.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O098",
@@ -1184,7 +1184,7 @@
         "Explain"
       ],
       "twist": "Someone asks to post the video online.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O099",
@@ -1196,7 +1196,7 @@
         "Give space"
       ],
       "twist": "Their friend never showed up.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     },
     {
       "id": "O100",
@@ -1208,14 +1208,14 @@
         "Sit and talk"
       ],
       "twist": "They have only 20 minutes.",
-      "status": "pending_cross_review"
+      "status": "not_selected_this_edition"
     }
   ],
   "claude_new": [
     {
       "id": "C001",
       "title": "Wrong Recipient",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Your goofy text went to someone you want to impress.",
       "choices": [
         "Explain immediately",
@@ -1227,7 +1227,7 @@
     {
       "id": "C002",
       "title": "Birthday Song",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "scenario": "A restaurant sings Happy Birthday to you.",
       "choices": [
         "Sing along",
@@ -1239,7 +1239,7 @@
     {
       "id": "C003",
       "title": "Borrowed Jacket",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You spilled juice on a friend's borrowed jacket.",
       "choices": [
         "Confess now",
@@ -1251,7 +1251,7 @@
     {
       "id": "C004",
       "title": "Surprise Cousins",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Cousins arrive unannounced for the weekend.",
       "choices": [
         "Plan activities",
@@ -1263,7 +1263,7 @@
     {
       "id": "C005",
       "title": "Finale Spoiler",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Your friend is about to watch a finale you've seen.",
       "choices": [
         "Stay quiet",
@@ -1275,7 +1275,7 @@
     {
       "id": "C006",
       "title": "Forgotten Wallet",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A friend forgot their wallet at lunch.",
       "choices": [
         "Cover them",
@@ -1287,7 +1287,7 @@
     {
       "id": "C007",
       "title": "Grandparent's Gift",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Grandma gives you a gift you'll never use.",
       "choices": [
         "Gush about it",
@@ -1299,7 +1299,7 @@
     {
       "id": "C008",
       "title": "Wrong Name",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A new friend has called you the wrong name for months.",
       "choices": [
         "Correct them now",
@@ -1311,7 +1311,7 @@
     {
       "id": "C009",
       "title": "Secret Party",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You're hiding a surprise party from someone curious.",
       "choices": [
         "Lie smoothly",
@@ -1323,7 +1323,7 @@
     {
       "id": "C010",
       "title": "Proud Chef",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A friend proudly serves you a dish that tastes awful.",
       "choices": [
         "Eat it all",
@@ -1335,7 +1335,7 @@
     {
       "id": "C011",
       "title": "Elevator Silence",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You're alone in an elevator with a stranger.",
       "choices": [
         "Small talk",
@@ -1347,7 +1347,7 @@
     {
       "id": "C012",
       "title": "Growling Stomach",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Your stomach growls loudly in a silent room.",
       "choices": [
         "Laugh and own it",
@@ -1359,7 +1359,7 @@
     {
       "id": "C013",
       "title": "Spinach Smile",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Your friend has food in their teeth.",
       "choices": [
         "Tell them right now",
@@ -1371,7 +1371,7 @@
     {
       "id": "C014",
       "title": "Fake Laugh",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Someone tells a joke you don't understand.",
       "choices": [
         "Laugh anyway",
@@ -1383,7 +1383,7 @@
     {
       "id": "C015",
       "title": "Wrong Wave",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You waved at someone who was waving at the person behind you.",
       "choices": [
         "Pretend you're stretching",
@@ -1395,7 +1395,7 @@
     {
       "id": "C016",
       "title": "Costume Mix-Up",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You arrive in full costume. Nobody else did.",
       "choices": [
         "Stay committed",
@@ -1407,7 +1407,7 @@
     {
       "id": "C017",
       "title": "Karaoke Ambush",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Friends signed you up for karaoke.",
       "choices": [
         "Sing with full confidence",
@@ -1419,7 +1419,7 @@
     {
       "id": "C018",
       "title": "Mystery Leftover",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You find an unlabeled container in the fridge.",
       "choices": [
         "Taste it",
@@ -1431,7 +1431,7 @@
     {
       "id": "C019",
       "title": "Squeaky Shoes",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Your new shoes squeak with every step in a quiet place.",
       "choices": [
         "Embrace it",
@@ -1443,7 +1443,7 @@
     {
       "id": "C020",
       "title": "Nickname Spotlight",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You're asked to share one fun fact about yourself.",
       "choices": [
         "A real embarrassing one",
@@ -1455,7 +1455,7 @@
     {
       "id": "C021",
       "title": "Robot Sidekick",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A tiny robot sidekick follows you for a week.",
       "choices": [
         "One that does chores",
@@ -1467,7 +1467,7 @@
     {
       "id": "C022",
       "title": "Shrink Day",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You can shrink to six inches for an hour.",
       "choices": [
         "Explore your house",
@@ -1479,7 +1479,7 @@
     {
       "id": "C023",
       "title": "Secret Room",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You inherit a mansion with one empty secret room.",
       "choices": [
         "Movie theater",
@@ -1491,7 +1491,7 @@
     {
       "id": "C024",
       "title": "Invented Holiday",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You invent a national holiday.",
       "choices": [
         "Free snack day",
@@ -1503,7 +1503,7 @@
     {
       "id": "C025",
       "title": "Pocket Dragon",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A tiny dragon hatches in your room.",
       "choices": [
         "Teach it tricks",
@@ -1515,7 +1515,7 @@
     {
       "id": "C026",
       "title": "Animal Shadow",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "One animal follows you around for a day.",
       "choices": [
         "A friendly penguin",
@@ -1527,7 +1527,7 @@
     {
       "id": "C027",
       "title": "Swap Day",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You swap lives with someone for one day.",
       "choices": [
         "A parent",
@@ -1539,7 +1539,7 @@
     {
       "id": "C028",
       "title": "Street Makeover",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Overnight, you redesign your street.",
       "choices": [
         "Giant slide",
@@ -1551,7 +1551,7 @@
     {
       "id": "C029",
       "title": "Time Capsule",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You bury one item to be opened in 20 years.",
       "choices": [
         "A letter to your future self",
@@ -1563,7 +1563,7 @@
     {
       "id": "C030",
       "title": "Cloud Slide",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "A magic slide takes you from your window anywhere in town.",
       "choices": [
         "Your school or work",
@@ -1575,7 +1575,7 @@
     {
       "id": "C031",
       "title": "Relay Spot",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You're picking your leg in a team relay.",
       "choices": [
         "First",
@@ -1587,7 +1587,7 @@
     {
       "id": "C032",
       "title": "Escape Room",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You're in an escape room. Pick your job.",
       "choices": [
         "Solve puzzles",
@@ -1599,7 +1599,7 @@
     {
       "id": "C033",
       "title": "Clue Giver",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You're giving hints in a word-guessing game.",
       "choices": [
         "Obvious hints",
@@ -1611,7 +1611,7 @@
     {
       "id": "C034",
       "title": "Coin Toss",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You win the toss in a game against a rival.",
       "choices": [
         "Go first",
@@ -1623,7 +1623,7 @@
     {
       "id": "C035",
       "title": "Tied Trophy",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You tie for first. There's one trophy.",
       "choices": [
         "Share it monthly",
@@ -1635,7 +1635,7 @@
     {
       "id": "C036",
       "title": "Lucky Call",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "The referee missed a call that favored your team.",
       "choices": [
         "Say nothing",
@@ -1647,7 +1647,7 @@
     {
       "id": "C037",
       "title": "Scavenger Gamble",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "Your team has three clues. Which first?",
       "choices": [
         "The closest one",
@@ -1659,7 +1659,7 @@
     {
       "id": "C038",
       "title": "Secret Alliance",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "In a board game, a friend offers an alliance.",
       "choices": [
         "Accept",
@@ -1671,7 +1671,7 @@
     {
       "id": "C039",
       "title": "Blindfold Guide",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Your teammate is blindfolded and you guide them through a course.",
       "choices": [
         "Detailed directions",
@@ -1683,7 +1683,7 @@
     {
       "id": "C040",
       "title": "Lemonade War",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "A rival opens a lemonade stand across the street.",
       "choices": [
         "Cut prices",
@@ -1695,7 +1695,7 @@
     {
       "id": "C041",
       "title": "Box or Cash",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You're offered a prize. Choose.",
       "choices": [
         "$50 now",
@@ -1707,7 +1707,7 @@
     {
       "id": "C042",
       "title": "Spend It Fast",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You win $500 and must spend it within 24 hours.",
       "choices": [
         "On yourself",
@@ -1719,7 +1719,7 @@
     {
       "id": "C043",
       "title": "The 25th Hour",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You get an extra hour every day, forever.",
       "choices": [
         "Sleep",
@@ -1731,7 +1731,7 @@
     {
       "id": "C044",
       "title": "Named After You",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "Something new is named after you.",
       "choices": [
         "An ice cream flavor",
@@ -1743,7 +1743,7 @@
     {
       "id": "C045",
       "title": "Your Rule",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "scenario": "For one day, everyone follows your rule.",
       "choices": [
         "Speak in rhyme",
@@ -1755,7 +1755,7 @@
     {
       "id": "C046",
       "title": "Hall of Fame",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "One photo of you goes on a wall.",
       "choices": [
         "Your proudest moment",
@@ -1767,7 +1767,7 @@
     {
       "id": "C047",
       "title": "Garage Sale Find",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "You can buy one mystery item for $5.",
       "choices": [
         "Locked toolbox",
@@ -1779,7 +1779,7 @@
     {
       "id": "C048",
       "title": "Ice Cream Truck",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "scenario": "The truck is leaving soon and you have $5.",
       "choices": [
         "One giant treat",
@@ -1791,7 +1791,7 @@
     {
       "id": "C049",
       "title": "Double Gift",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You received the same gift twice.",
       "choices": [
         "Keep both",
@@ -1803,7 +1803,7 @@
     {
       "id": "C050",
       "title": "Raffle Win",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "scenario": "You win a raffle prize you don't want.",
       "choices": [
         "Keep it",
@@ -1824,7 +1824,7 @@
         "A meal named after you"
       ],
       "twist": "The chef will serve it to everyone at your table.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1837,7 +1837,7 @@
         "Hand it to the winner"
       ],
       "twist": "The actual winner is sitting beside you.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1850,7 +1850,7 @@
         "Join the applause"
       ],
       "twist": "Your best friend started it as a joke.",
-      "status": "needs_revision_or_comparison",
+      "status": "reserve_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1863,7 +1863,7 @@
         "Offer it away"
       ],
       "twist": "The person beside it has saved the seat for you.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -1876,7 +1876,7 @@
         "Pull a prank"
       ],
       "twist": "Your best friend will remember the truth.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1889,7 +1889,7 @@
         "Go alone"
       ],
       "twist": "The guest gets to meet the performer; you don't.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1902,7 +1902,7 @@
         "A family recipe"
       ],
       "twist": "One judge taught you how to cook.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -1915,7 +1915,7 @@
         "Cartoon character"
       ],
       "twist": "Every time you laugh, they hear it too.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1928,7 +1928,7 @@
         "Offer a favor"
       ],
       "twist": "They admit they broke something of yours last week.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1941,7 +1941,7 @@
         "Someone you've just met"
       ],
       "twist": "Your partner gets to choose your challenge.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1954,7 +1954,7 @@
         "Play another round"
       ],
       "twist": "They've already submitted it to a contest.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -1993,7 +1993,7 @@
         "Speed puzzles"
       ],
       "twist": "Your family enters you in a public competition.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2006,7 +2006,7 @@
         "Be surprisingly specific"
       ],
       "twist": "The winner must accept the same compliment publicly.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2019,7 +2019,7 @@
         "Show a friend"
       ],
       "twist": "It knows exactly what you've forgotten.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2045,7 +2045,7 @@
         "Invent a new identity"
       ],
       "twist": "The baker is standing there waiting for your reaction.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2058,7 +2058,7 @@
         "Funny childhood story"
       ],
       "twist": "Someone at the table already knows it.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2071,7 +2071,7 @@
         "Their signature move"
       ],
       "twist": "You must teach it to a stranger tomorrow.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2084,7 +2084,7 @@
         "Avoid everyone"
       ],
       "twist": "Your funniest friend is assigned to distract you.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2097,7 +2097,7 @@
         "Funny photograph"
       ],
       "twist": "You must give a guided tour to visitors.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2123,7 +2123,7 @@
         "Tell a shared story"
       ],
       "twist": "They unexpectedly invite you to join the act.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2136,7 +2136,7 @@
         "Giant plush bear"
       ],
       "twist": "It cheers every time you enter a room.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2149,7 +2149,7 @@
         "Most entertaining"
       ],
       "twist": "Every contestant gets to judge your next attempt.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2162,7 +2162,7 @@
         "Recruit a helper"
       ],
       "twist": "The item is a giant cardboard trophy.",
-      "status": "priority_review",
+      "status": "reserve_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2175,7 +2175,7 @@
         "Shopping for yard work"
       ],
       "twist": "You must teach them your original chore first.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2188,7 +2188,7 @@
         "Try to make them laugh"
       ],
       "twist": "Your own embarrassing video starts playing.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2201,7 +2201,7 @@
         "A magician"
       ],
       "twist": "They get to invent one house rule.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2240,7 +2240,7 @@
         "Help someone better"
       ],
       "twist": "Everyone else remembers both versions.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2253,7 +2253,7 @@
         "Swap teams"
       ],
       "twist": "Everyone votes on whether to keep it afterward.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2266,7 +2266,7 @@
         "Trivia"
       ],
       "twist": "Neighbors ask for a demonstration tonight.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2292,7 +2292,7 @@
         "Make one up"
       ],
       "twist": "They let you choose the song but insist on singing first.",
-      "status": "needs_revision_or_comparison",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2305,7 +2305,7 @@
         "Do a silly dance"
       ],
       "twist": "Your friend offers to take half the punishment.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2344,7 +2344,7 @@
         "Someone you've just met"
       ],
       "twist": "They get to ask you the same question.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2357,7 +2357,7 @@
         "Ask someone to teach you"
       ],
       "twist": "They've already announced you as the instructor.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2370,7 +2370,7 @@
         "Ridiculously silly"
       ],
       "twist": "You must demonstrate it with a stranger.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2383,7 +2383,7 @@
         "Most original"
       ],
       "twist": "The winner chooses your costume next year.",
-      "status": "needs_revision_or_comparison",
+      "status": "reserve_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2422,7 +2422,7 @@
         "Offer teams"
       ],
       "twist": "They've been practicing for a month.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2435,7 +2435,7 @@
         "Invite someone up"
       ],
       "twist": "The audience is made entirely of people you know.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2474,7 +2474,7 @@
         "Ask the organizer"
       ],
       "twist": "The rightful winner is your biggest rival.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2487,7 +2487,7 @@
         "Invite a friend"
       ],
       "twist": "Your first performance was a complete accident.",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2500,7 +2500,7 @@
         "Share it"
       ],
       "twist": "The entire restaurant starts singing.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2513,7 +2513,7 @@
         "Ask for clues"
       ],
       "twist": "They remember a story that really happened to you.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2526,7 +2526,7 @@
         "Give it to the host"
       ],
       "twist": "Your name is written underneath.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2539,7 +2539,7 @@
         "A meaningful song"
       ],
       "twist": "The song plays every morning for a week.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2552,7 +2552,7 @@
         "Ask to join them"
       ],
       "twist": "They're about to play the championship.",
-      "status": "needs_revision_or_comparison",
+      "status": "reserve_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2604,7 +2604,7 @@
         "Make it surprising"
       ],
       "twist": "Your opponent gets to taste it before judging.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2617,7 +2617,7 @@
         "Sit alone"
       ],
       "twist": "Your seatmate chooses the music for the whole bus.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2643,7 +2643,7 @@
         "Offer another day"
       ],
       "twist": "They already told everyone you volunteered.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2656,7 +2656,7 @@
         "Play along"
       ],
       "twist": "They've confused you with someone from your school or work.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2669,7 +2669,7 @@
         "Trade for something else"
       ],
       "twist": "They insist you did all the work.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2682,7 +2682,7 @@
         "Keep it silent"
       ],
       "twist": "It loudly disagrees with your opinions.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2695,7 +2695,7 @@
         "Explore the kingdom"
       ],
       "twist": "Your subjects can vote you out by lunchtime.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2721,7 +2721,7 @@
         "Make rainbows"
       ],
       "twist": "The weather follows whoever holds it, even indoors.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2747,7 +2747,7 @@
         "Meet a friend"
       ],
       "twist": "It acts exactly like your most dramatic relative.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2760,7 +2760,7 @@
         "Carry the flag"
       ],
       "twist": "The parade crosses your family's dinner table.",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2773,7 +2773,7 @@
         "Hide it away"
       ],
       "twist": "Someone in the photo is standing beside you now.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2786,7 +2786,7 @@
         "Talk to animals"
       ],
       "twist": "A friend gets to decide when the power activates.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2812,7 +2812,7 @@
         "Tell the group"
       ],
       "twist": "They show you a card proving they can win alone.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2851,7 +2851,7 @@
         "Ask the referee"
       ],
       "twist": "Your incorrect method is somehow working.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2864,7 +2864,7 @@
         "Delegate to a friend"
       ],
       "twist": "The group includes someone who always disagrees with you.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2877,7 +2877,7 @@
         "Wait for confirmation"
       ],
       "twist": "Someone else confidently announces a different answer.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -2903,7 +2903,7 @@
         "Make a gesture"
       ],
       "twist": "The other team hears your hint too.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2916,7 +2916,7 @@
         "Tell everyone"
       ],
       "twist": "Your little sibling is cheering for you.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2942,7 +2942,7 @@
         "Distract everyone"
       ],
       "twist": "Your friend starts dropping obvious clues.",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2955,7 +2955,7 @@
         "Someone who loves surprises"
       ],
       "twist": "The guest must give a short review afterward.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2968,7 +2968,7 @@
         "Perform a trick"
       ],
       "twist": "The quietest person in the room gets the deciding vote.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -2994,7 +2994,7 @@
         "Make a sequel"
       ],
       "twist": "Your art teacher wants to display the original.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3007,7 +3007,7 @@
         "Ask a cohost"
       ],
       "twist": "The guests are all better planners than you.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3020,7 +3020,7 @@
         "Keep answers short"
       ],
       "twist": "Your friend hears the interview live.",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3033,7 +3033,7 @@
         "Swap with a friend"
       ],
       "twist": "Someone asks you for professional advice.",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3059,7 +3059,7 @@
         "Invent a new one"
       ],
       "twist": "Your teacher or boss joins in.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3085,7 +3085,7 @@
         "Tell a compliment disguised as a joke"
       ],
       "twist": "Your target gets the final comeback.",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "author": "ChatGPT"
     },
     {
@@ -3098,7 +3098,7 @@
         "Be sincere"
       ],
       "twist": "The other person remembers your first attempt.",
-      "status": "needs_revision_or_comparison",
+      "status": "not_selected_this_edition",
       "author": "ChatGPT"
     },
     {
@@ -3111,7 +3111,7 @@
         "Write in a surprise name"
       ],
       "twist": "Everyone must explain their vote afterward.",
-      "status": "priority_review",
+      "status": "reserve_for_playtest",
       "author": "ChatGPT"
     }
   ],
@@ -3119,7 +3119,7 @@
     {
       "id": "C051",
       "title": "Sibling Snoop",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your sibling's diary is open on the table.",
       "choices": [
@@ -3132,7 +3132,7 @@
     {
       "id": "C052",
       "title": "Grandparent Sign",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your grandparent holds a giant sign at your event.",
       "choices": [
@@ -3145,7 +3145,7 @@
     {
       "id": "C053",
       "title": "Holiday Card",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Relatives demand a goofy family photo.",
       "choices": [
@@ -3158,7 +3158,7 @@
     {
       "id": "C054",
       "title": "Snore Watch",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A friend snores loudly at a sleepover.",
       "choices": [
@@ -3171,7 +3171,7 @@
     {
       "id": "C055",
       "title": "Open Phone",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A friend hands you their unlocked phone to pick music.",
       "choices": [
@@ -3184,7 +3184,7 @@
     {
       "id": "C056",
       "title": "Wrapping Fail",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your gift is wrapped terribly and the party is starting.",
       "choices": [
@@ -3197,7 +3197,7 @@
     {
       "id": "C057",
       "title": "Mom Slip",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You accidentally call your teacher or boss Mom.",
       "choices": [
@@ -3210,7 +3210,7 @@
     {
       "id": "C058",
       "title": "Kids' Table",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Family dinner has a kids' table and an adults' table.",
       "choices": [
@@ -3223,7 +3223,7 @@
     {
       "id": "C059",
       "title": "Secret Signal",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your friend group needs a secret signal.",
       "choices": [
@@ -3236,7 +3236,7 @@
     {
       "id": "C060",
       "title": "Card Cheat",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Grandpa clearly cheats at cards.",
       "choices": [
@@ -3249,7 +3249,7 @@
     {
       "id": "C061",
       "title": "Twin Outfits",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You and a friend show up in the same outfit.",
       "choices": [
@@ -3262,7 +3262,7 @@
     {
       "id": "C062",
       "title": "Borrowed Stuff",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your sibling borrowed your favorite thing without asking.",
       "choices": [
@@ -3275,7 +3275,7 @@
     {
       "id": "C063",
       "title": "Introductions",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You must introduce a friend to a group.",
       "choices": [
@@ -3288,7 +3288,7 @@
     {
       "id": "C064",
       "title": "Whispered Plans",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your friends go quiet when you walk in.",
       "choices": [
@@ -3301,7 +3301,7 @@
     {
       "id": "C065",
       "title": "Big News",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're the first to hear a friend's big news.",
       "choices": [
@@ -3314,7 +3314,7 @@
     {
       "id": "C066",
       "title": "Hiccup Speech",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Hiccups hit mid-presentation.",
       "choices": [
@@ -3340,7 +3340,7 @@
     {
       "id": "C068",
       "title": "Mic Ambush",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're unexpectedly handed a mic at a party.",
       "choices": [
@@ -3353,7 +3353,7 @@
     {
       "id": "C069",
       "title": "Store Dance",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your favorite song plays in a quiet store.",
       "choices": [
@@ -3366,7 +3366,7 @@
     {
       "id": "C070",
       "title": "Mistaken Hug",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "A stranger hugs you, mistaking you for someone else.",
       "choices": [
@@ -3379,7 +3379,7 @@
     {
       "id": "C071",
       "title": "Mascot Dance-Off",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "The team mascot picks you from the crowd.",
       "choices": [
@@ -3392,7 +3392,7 @@
     {
       "id": "C072",
       "title": "Hug Note",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You find a note on your back that says Hug me.",
       "choices": [
@@ -3405,7 +3405,7 @@
     {
       "id": "C073",
       "title": "Wrong Room",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You walk into the wrong classroom or meeting.",
       "choices": [
@@ -3418,7 +3418,7 @@
     {
       "id": "C074",
       "title": "Lone Clapper",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You're the only one clapping at a quiet performance.",
       "choices": [
@@ -3431,7 +3431,7 @@
     {
       "id": "C075",
       "title": "Seagull Thief",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A seagull steals your snack as people watch.",
       "choices": [
@@ -3444,7 +3444,7 @@
     {
       "id": "C076",
       "title": "Window Wave",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You waved at your own reflection and people inside noticed.",
       "choices": [
@@ -3457,7 +3457,7 @@
     {
       "id": "C077",
       "title": "Glitter Gift",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You open a gift and glitter explodes everywhere.",
       "choices": [
@@ -3470,7 +3470,7 @@
     {
       "id": "C078",
       "title": "Autocorrect Reply",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Autocorrect turned your message to your teacher or boss into nonsense.",
       "choices": [
@@ -3483,7 +3483,7 @@
     {
       "id": "C079",
       "title": "Chat Rename",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Someone renamed your group chat to something embarrassing.",
       "choices": [
@@ -3496,7 +3496,7 @@
     {
       "id": "C080",
       "title": "Loud Whisper",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your whispered secret was much louder than you thought.",
       "choices": [
@@ -3509,7 +3509,7 @@
     {
       "id": "C081",
       "title": "Mismatched Shoes",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You notice you're wearing two different shoes.",
       "choices": [
@@ -3535,7 +3535,7 @@
     {
       "id": "C083",
       "title": "Boring Talk",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're stuck in a very boring conversation.",
       "choices": [
@@ -3548,7 +3548,7 @@
     {
       "id": "C084",
       "title": "Lost Line",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You forget your line mid-play.",
       "choices": [
@@ -3561,7 +3561,7 @@
     {
       "id": "C085",
       "title": "Impression",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Friends beg for your impression of your teacher or boss.",
       "choices": [
@@ -3574,7 +3574,7 @@
     {
       "id": "C086",
       "title": "Talking Pet",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your pet can talk for one day.",
       "choices": [
@@ -3587,7 +3587,7 @@
     {
       "id": "C087",
       "title": "Mystery Button",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A new unmarked button appears in your elevator.",
       "choices": [
@@ -3600,7 +3600,7 @@
     {
       "id": "C088",
       "title": "Tiny Town",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You discover a tiny town in your backyard.",
       "choices": [
@@ -3613,7 +3613,7 @@
     {
       "id": "C089",
       "title": "Alien Guide",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "A friendly alien needs a guide for one afternoon.",
       "choices": [
@@ -3626,7 +3626,7 @@
     {
       "id": "C090",
       "title": "Friendly Ghost",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "A friendly ghost offers you a free stay in its mansion.",
       "choices": [
@@ -3639,7 +3639,7 @@
     {
       "id": "C091",
       "title": "Magic Pencil",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Whatever you draw becomes real for one hour.",
       "choices": [
@@ -3652,7 +3652,7 @@
     {
       "id": "C092",
       "title": "Treasure Map",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You find a treasure map in the attic.",
       "choices": [
@@ -3665,7 +3665,7 @@
     {
       "id": "C093",
       "title": "Mistaken Star",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Everyone thinks you're a celebrity today.",
       "choices": [
@@ -3678,7 +3678,7 @@
     {
       "id": "C094",
       "title": "Honest Mirror",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your mirror gives brutally honest outfit reviews.",
       "choices": [
@@ -3691,7 +3691,7 @@
     {
       "id": "C095",
       "title": "Memory Eraser",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A button erases one embarrassing moment from everyone's memory.",
       "choices": [
@@ -3704,7 +3704,7 @@
     {
       "id": "C096",
       "title": "Imaginary Friend",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Your childhood imaginary friend appears, real.",
       "choices": [
@@ -3717,7 +3717,7 @@
     {
       "id": "C097",
       "title": "Wizard Neighbor",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your neighbor is secretly a wizard.",
       "choices": [
@@ -3730,7 +3730,7 @@
     {
       "id": "C098",
       "title": "Borrowed Voice",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You get a different voice for a day.",
       "choices": [
@@ -3743,7 +3743,7 @@
     {
       "id": "C099",
       "title": "Time Loop",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You repeat the same Saturday ten times.",
       "choices": [
@@ -3756,7 +3756,7 @@
     {
       "id": "C100",
       "title": "Parallel You",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You meet a version of yourself who chose differently.",
       "choices": [
@@ -3769,7 +3769,7 @@
     {
       "id": "C101",
       "title": "Deciding Shot",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Teammates urge you to take the winning shot.",
       "choices": [
@@ -3782,7 +3782,7 @@
     {
       "id": "C102",
       "title": "Loophole",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You spot a rule loophole that guarantees victory.",
       "choices": [
@@ -3795,7 +3795,7 @@
     {
       "id": "C103",
       "title": "Hide-and-Seek",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Perfect hiding spot, and the seeker is closing in.",
       "choices": [
@@ -3808,7 +3808,7 @@
     {
       "id": "C104",
       "title": "Captain's Pick",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You're captain, picking first.",
       "choices": [
@@ -3821,7 +3821,7 @@
     {
       "id": "C105",
       "title": "Charades Gamble",
-      "status": "pending_cross_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Choose your charades card.",
       "choices": [
@@ -3847,7 +3847,7 @@
     {
       "id": "C107",
       "title": "Tiny Judge",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "It's a paper airplane contest.",
       "choices": [
@@ -3860,7 +3860,7 @@
     {
       "id": "C108",
       "title": "Fort Siege",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Cousins attack your pillow fort.",
       "choices": [
@@ -3886,7 +3886,7 @@
     {
       "id": "C110",
       "title": "Buzzer Gamble",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You're 70% sure of the answer.",
       "choices": [
@@ -3899,7 +3899,7 @@
     {
       "id": "C111",
       "title": "Spelling Duel",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're in a spelling duel with a friend.",
       "choices": [
@@ -3912,7 +3912,7 @@
     {
       "id": "C112",
       "title": "Last Hole",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You need a hole-in-one on the last mini-golf hole.",
       "choices": [
@@ -3925,7 +3925,7 @@
     {
       "id": "C113",
       "title": "Show-Down",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Settle a tie with rock-paper-scissors.",
       "choices": [
@@ -3938,7 +3938,7 @@
     {
       "id": "C114",
       "title": "Pie Pick",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "The winner chooses who gets a pie in the face.",
       "choices": [
@@ -3951,7 +3951,7 @@
     {
       "id": "C115",
       "title": "Poker Face",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You hold a weak hand in a card game.",
       "choices": [
@@ -3964,7 +3964,7 @@
     {
       "id": "C116",
       "title": "Don't Laugh",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're in a staring contest with a funny friend.",
       "choices": [
@@ -4003,7 +4003,7 @@
     {
       "id": "C119",
       "title": "Switch Sides",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "The losing team offers you a spot.",
       "choices": [
@@ -4016,7 +4016,7 @@
     {
       "id": "C120",
       "title": "Cheer Lead",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're asked to lead the team cheer.",
       "choices": [
@@ -4029,7 +4029,7 @@
     {
       "id": "C121",
       "title": "Dinner Neighbor",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Pick who sits next to you at dinner.",
       "choices": [
@@ -4042,7 +4042,7 @@
     {
       "id": "C122",
       "title": "Secret Gift",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You drew a name you barely know in a gift swap.",
       "choices": [
@@ -4055,7 +4055,7 @@
     {
       "id": "C123",
       "title": "Going Viral",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You went viral for something small.",
       "choices": [
@@ -4068,7 +4068,7 @@
     {
       "id": "C124",
       "title": "Golden Pass",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You have three free line-skips for life.",
       "choices": [
@@ -4081,7 +4081,7 @@
     {
       "id": "C125",
       "title": "One-Hour Boss",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're boss of the household for one hour.",
       "choices": [
@@ -4094,7 +4094,7 @@
     {
       "id": "C126",
       "title": "Skip Pass",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "One pass skips anything.",
       "choices": [
@@ -4120,7 +4120,7 @@
     {
       "id": "C128",
       "title": "Prank Payback",
-      "status": "priority_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You get to prank the person on your left.",
       "choices": [
@@ -4133,7 +4133,7 @@
     {
       "id": "C129",
       "title": "Table Toast",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You must give a toast to someone at the table.",
       "choices": [
@@ -4146,7 +4146,7 @@
     {
       "id": "C130",
       "title": "Compliment Echo",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Compliment the person on your right.",
       "choices": [
@@ -4159,7 +4159,7 @@
     {
       "id": "C131",
       "title": "Mystery Partner",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Pick a partner for a secret task.",
       "choices": [
@@ -4172,7 +4172,7 @@
     {
       "id": "C132",
       "title": "Big Gamble",
-      "status": "priority_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A game show offers $1,000 or double-or-nothing.",
       "choices": [
@@ -4185,7 +4185,7 @@
     {
       "id": "C133",
       "title": "Generous Friend",
-      "status": "priority_review",
+      "status": "selected_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "A friend treats you to something pricey.",
       "choices": [
@@ -4198,7 +4198,7 @@
     {
       "id": "C134",
       "title": "Volunteer Call",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "The group needs a volunteer for a silly task.",
       "choices": [
@@ -4211,7 +4211,7 @@
     {
       "id": "C135",
       "title": "Phone-Free Cash",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You're offered $100 for a phone-free day.",
       "choices": [
@@ -4224,7 +4224,7 @@
     {
       "id": "C136",
       "title": "Nickname Vote",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Choose your own nickname.",
       "choices": [
@@ -4237,7 +4237,7 @@
     {
       "id": "C137",
       "title": "Trophy Spot",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You win a huge trophy. Where does it go?",
       "choices": [
@@ -4250,7 +4250,7 @@
     {
       "id": "C138",
       "title": "Statue",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A statue of you goes up in town.",
       "choices": [
@@ -4263,7 +4263,7 @@
     {
       "id": "C139",
       "title": "Hot Seat",
-      "status": "priority_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "Ask someone at the table one honest question.",
       "choices": [
@@ -4276,7 +4276,7 @@
     {
       "id": "C140",
       "title": "Gift Steal",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You may swap your gift with anyone's.",
       "choices": [
@@ -4289,7 +4289,7 @@
     {
       "id": "C141",
       "title": "Public Dare",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "$50 for a silly dance in public.",
       "choices": [
@@ -4302,7 +4302,7 @@
     {
       "id": "C142",
       "title": "Chaos Rule",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Add one rule to the next game.",
       "choices": [
@@ -4315,7 +4315,7 @@
     {
       "id": "C143",
       "title": "Celebrity Visit",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "Your favorite celebrity visits for ten minutes.",
       "choices": [
@@ -4341,7 +4341,7 @@
     {
       "id": "C145",
       "title": "Puppy Name",
-      "status": "pending_cross_review",
+      "status": "reserve_for_playtest",
       "source": "Claude submission in conversation",
       "scenario": "You must name a new puppy.",
       "choices": [
@@ -4354,7 +4354,7 @@
     {
       "id": "C146",
       "title": "Overshare",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A friend overshares something awkward.",
       "choices": [
@@ -4367,7 +4367,7 @@
     {
       "id": "C147",
       "title": "Hype Friend",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "A friend is nervous before a performance.",
       "choices": [
@@ -4393,7 +4393,7 @@
     {
       "id": "C149",
       "title": "Last Word",
-      "status": "pending_cross_review",
+      "status": "not_selected_this_edition",
       "source": "Claude submission in conversation",
       "scenario": "You get the last word in a playful argument.",
       "choices": [
@@ -4419,7 +4419,7 @@
   ],
   "reserves": [],
   "final_selected": [],
-  "next_step": "Self-review 100 ChatGPT drafts; import full Claude source; cross-review and select 120",
+  "next_step": "Human playtest 100-card edition, collect card-level ratings and Judge before/after answers, then iterate",
   "editorial_screen": {
     "date": "2026-11-11",
     "method": "Preliminary heuristic and editorial screening; not validated playtest or blind cross-review",
@@ -4510,5 +4510,135 @@
       "Cross-author comparisons and final 120 selection not yet completed",
       "Heuristic flags do not establish empirical performance"
     ]
+  },
+  "live_version": "2026.11.11.1",
+  "selection": {
+    "primary_ids": [
+      "C001",
+      "G001",
+      "C003",
+      "G002",
+      "C006",
+      "G005",
+      "C007",
+      "G006",
+      "C008",
+      "G008",
+      "C010",
+      "G009",
+      "C014",
+      "G010",
+      "C016",
+      "G011",
+      "C017",
+      "G014",
+      "C020",
+      "G015",
+      "C021",
+      "O002",
+      "C025",
+      "G019",
+      "C027",
+      "O004",
+      "C028",
+      "G020",
+      "C029",
+      "O005",
+      "C032",
+      "G021",
+      "C033",
+      "O006",
+      "C035",
+      "G025",
+      "C038",
+      "O007",
+      "C039",
+      "G026",
+      "C040",
+      "O008",
+      "C042",
+      "G029",
+      "C043",
+      "O011",
+      "C044",
+      "G033",
+      "C049",
+      "O013",
+      "C050",
+      "G034",
+      "C051",
+      "O019",
+      "C057",
+      "G035",
+      "C058",
+      "O029",
+      "C060",
+      "G037",
+      "C063",
+      "O033",
+      "C070",
+      "G038",
+      "C071",
+      "O042",
+      "C073",
+      "G041",
+      "C080",
+      "O045",
+      "C085",
+      "G042",
+      "C086",
+      "O049",
+      "C089",
+      "G047",
+      "C090",
+      "O058",
+      "C091",
+      "G051",
+      "C094",
+      "O068",
+      "C096",
+      "G054",
+      "C099",
+      "O074",
+      "C102",
+      "G066",
+      "C105",
+      "O075",
+      "C110",
+      "G077",
+      "C113",
+      "O076",
+      "C114",
+      "G082",
+      "C123",
+      "O079",
+      "C133",
+      "G098"
+    ],
+    "reserve_ids": [
+      "O010",
+      "O017",
+      "O022",
+      "O025",
+      "O036",
+      "C002",
+      "C045",
+      "C052",
+      "C064",
+      "C074",
+      "C093",
+      "C104",
+      "C128",
+      "C139",
+      "C145",
+      "G003",
+      "G027",
+      "G044",
+      "G057",
+      "G100"
+    ],
+    "primary_count": 100,
+    "reserve_count": 20,
+    "selection_type": "editorial provisional, pending human playtest"
   }
 }
